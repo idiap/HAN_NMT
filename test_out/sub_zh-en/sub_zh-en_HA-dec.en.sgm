@@ -1,0 +1,3468 @@
+<tstset trglang="English" setid="subtest_eval" srclang="Chinese" trglang="English">
+<DOC sysid="base" sysid="src" docid="SUB01">
+<p>
+<seg id=1> how &apos;s the paperwork going ?</seg>
+</p>
+<p>
+<seg id=2> sure . it &apos;s all done .</seg>
+</p>
+<p>
+<seg id=3> ross , thank you .</seg>
+</p>
+<p>
+<seg id=4> you wanna go to the movies ?</seg>
+</p>
+<p>
+<seg id=5> i &apos;m gonna go put on a sweater .</seg>
+</p>
+<p>
+<seg id=6> wanna hear something weird ?</seg>
+</p>
+<p>
+<seg id=7> ready ?</seg>
+</p>
+<p>
+<seg id=8> i didn &apos;t get an annulment .</seg>
+</p>
+<p>
+<seg id=9> what ? we &apos;re still married .</seg>
+</p>
+<p>
+<seg id=10> don &apos;t tell rachel . i &apos;ll see you later .</seg>
+</p>
+<p>
+<seg id=11> do you have any gum ?</seg>
+</p>
+<p>
+<seg id=12> wait ! ross , can i talk to you for a sec ?</seg>
+</p>
+<p>
+<seg id=13> we &apos;re late for a movie .</seg>
+</p>
+<p>
+<seg id=14> there &apos;s a cab . taxi !</seg>
+</p>
+<p>
+<seg id=15> perfect timing . oh , my god !</seg>
+</p>
+<p>
+<seg id=16> get in the car .</seg>
+</p>
+<p>
+<seg id=17> let &apos;s just go . it &apos;s right up front .</seg>
+</p>
+<p>
+<seg id=18> <unk> , drive .</seg>
+</p>
+<p>
+<seg id=19> you didn &apos;t cancel ?</seg>
+</p>
+<p>
+<seg id=20> i know .</seg>
+</p>
+<p>
+<seg id=21> ross ?</seg>
+</p>
+<p>
+<seg id=22> i tried , but i only heard it on the lawyer building .</seg>
+</p>
+<p>
+<seg id=23> &quot; divorced three times , divorced three times . &quot;</seg>
+</p>
+<p>
+<seg id=24> that &apos;s right . it &apos;s <unk> .</seg>
+</p>
+<p>
+<seg id=25> i don &apos;t want my tombstone to be &quot; ross geller , divorce three times . &quot;</seg>
+</p>
+<p>
+<seg id=26> don &apos;t worry about the headstone . what do you want ?</seg>
+</p>
+<p>
+<seg id=27> you can do &quot; ross geller , marriage master . &quot;</seg>
+</p>
+<p>
+<seg id=28> you know what ? my &quot; phoebe buffay , buried here . &quot;</seg>
+</p>
+<p>
+<seg id=29> i know i can &apos;t go through a failed marriage .</seg>
+</p>
+<p>
+<seg id=30> so you &apos;re marrying a girl you don &apos;t know ?</seg>
+</p>
+<p>
+<seg id=31> it &apos;s &quot; woman . &quot; i &apos;m sorry .</seg>
+</p>
+<p>
+<seg id=32> i don &apos;t know what to do . please don &apos;t tell rachel .</seg>
+</p>
+<p>
+<seg id=33> rachel is one of my best friends .</seg>
+</p>
+<p>
+<seg id=34> but when the only person who knew that made me feel good , okay ?</seg>
+</p>
+<p>
+<seg id=35> stop !</seg>
+</p>
+<p>
+<seg id=36> phoebe ? rachel ?</seg>
+</p>
+<p>
+<seg id=37> what &apos;s that ? i &apos;m sorry . it &apos;s wrong .</seg>
+</p>
+<p>
+<seg id=38> how &apos;s the movie ? i haven &apos;t seen it yet .</seg>
+</p>
+<p>
+<seg id=39> then better hurry up and drive .</seg>
+</p>
+<p>
+<seg id=40> no ...</seg>
+</p>
+<p>
+<seg id=41> ross , hug rachel .</seg>
+</p>
+<p>
+<seg id=42> can i buy a bubble machine when i move in ?</seg>
+</p>
+<p>
+<seg id=43> sure . joey won &apos;t buy it ?</seg>
+</p>
+<p>
+<seg id=44> yeah , speaking of sweet moves , he wants something special .</seg>
+</p>
+<p>
+<seg id=45> you wanna tell him he &apos;s moving out ? i haven &apos;t tried .</seg>
+</p>
+<p>
+<seg id=46> all i can say is , &quot; joey , i have to ... &quot;</seg>
+</p>
+<p>
+<seg id=47> and then i lost my nerve to say , &quot; go to the bathroom . &quot;</seg>
+</p>
+<p>
+<seg id=48> he probably thinks i &apos;m sick .</seg>
+</p>
+<p>
+<seg id=49> i really have to tell rachel .</seg>
+</p>
+<p>
+<seg id=50> we are so <unk> .</seg>
+</p>
+<p>
+<seg id=51> next time you see them , tell them .</seg>
+</p>
+<p>
+<seg id=52> that &apos;s the decision .</seg>
+</p>
+<p>
+<seg id=53> so this is it ? you &apos;re gonna do this to me now , aren &apos;t you ?</seg>
+</p>
+<p>
+<seg id=54> pretty much .</seg>
+</p>
+<p>
+<seg id=55> okay .</seg>
+</p>
+<p>
+<seg id=56> monica ?</seg>
+</p>
+<p>
+<seg id=57> any better ?</seg>
+</p>
+<p>
+<seg id=58> joey , we need to tell you something .</seg>
+</p>
+<p>
+<seg id=59> oh , my god . you &apos;re pregnant .</seg>
+</p>
+<p>
+<seg id=60> no .</seg>
+</p>
+<p>
+<seg id=61> no ? no .</seg>
+</p>
+<p>
+<seg id=62> joey , here &apos;s the thing .</seg>
+</p>
+<p>
+<seg id=63> monica and i decided to live together , so i &apos;ll move out .</seg>
+</p>
+<p>
+<seg id=64> good for you . congratulations . bye .</seg>
+</p>
+<p>
+<seg id=65> are you okay ?</seg>
+</p>
+<p>
+<seg id=66> i have to go . this is gonna work .</seg>
+</p>
+<p>
+<seg id=67> looks like you &apos;re the only one who believes it .</seg>
+</p>
+<p>
+<seg id=68> oh , crap .</seg>
+</p>
+<p>
+<seg id=69> i &apos;m just moving across the hall . i promise .</seg>
+</p>
+<p>
+<seg id=70> as long as monica and i split up , we move back in .</seg>
+</p>
+<p>
+<seg id=71> now ?</seg>
+</p>
+<p>
+<seg id=72> if you &apos;re gonna live with him , i feel obligated to tell you what he is .</seg>
+</p>
+<p>
+<seg id=73> he &apos;s a terrible roommate .</seg>
+</p>
+<p>
+<seg id=74> he &apos;ll forget ... always ...</seg>
+</p>
+<p>
+<seg id=75> who am i kidding ? he &apos;s the best .</seg>
+</p>
+<p>
+<seg id=76> phoebe ?</seg>
+</p>
+<p>
+<seg id=77> there &apos;s an article about two married and not telling each other .</seg>
+</p>
+<p>
+<seg id=78> really ?</seg>
+</p>
+<p>
+<seg id=79> yeah , i &apos;m watching ross geller magazines .</seg>
+</p>
+<p>
+<seg id=80> have you seen rachel ?</seg>
+</p>
+<p>
+<seg id=81> no . what ?</seg>
+</p>
+<p>
+<seg id=82> i have good news .</seg>
+</p>
+<p>
+<seg id=83> you &apos;re pregnant .</seg>
+</p>
+<p>
+<seg id=84> no , chandler and i decided to move in together . great .</seg>
+</p>
+<p>
+<seg id=85> but if you have a baby , what &apos;s your name , phoebe ?</seg>
+</p>
+<p>
+<seg id=86> what ?</seg>
+</p>
+<p>
+<seg id=87> chandler and i are gonna live together .</seg>
+</p>
+<p>
+<seg id=88> oh , my god . my sister &apos;s with my ... best friend .</seg>
+</p>
+<p>
+<seg id=89> great .</seg>
+</p>
+<p>
+<seg id=90> hey , i &apos;m glad , too . come on .</seg>
+</p>
+<p>
+<seg id=91> it &apos;s a busy day . someone &apos;s moving in . someone &apos;s gonna cancel .</seg>
+</p>
+<p>
+<seg id=92> i &apos;m gonna go get some sleep , but ...</seg>
+</p>
+<p>
+<seg id=93> wouldn &apos;t it be bad if i met her ?</seg>
+</p>
+<p>
+<seg id=94> the bad news for rachel ...</seg>
+</p>
+<p>
+<seg id=95> what &apos;s her bad news ?</seg>
+</p>
+<p>
+<seg id=96> can we stop talking ?</seg>
+</p>
+<p>
+<seg id=97> i &apos;m embarrassed . i should live under someone else &apos;s stairs .</seg>
+</p>
+<p>
+<seg id=98> it &apos;s not that bad .</seg>
+</p>
+<p>
+<seg id=99> you &apos;re still married three times , you get a personal date ...</seg>
+</p>
+<p>
+<seg id=100> no . my dating numbers are down to rock bottom .</seg>
+</p>
+<p>
+<seg id=101> four divorces and ...</seg>
+</p>
+<p>
+<seg id=102> <unk> .</seg>
+</p>
+<p>
+<seg id=103> ross , don &apos;t be silly . you &apos;re cute and smart .</seg>
+</p>
+<p>
+<seg id=104> it &apos;s more important than three divorces .</seg>
+</p>
+<p>
+<seg id=105> really ? you &apos;re dating three divorced boyfriends ?</seg>
+</p>
+<p>
+<seg id=106> it &apos;s not fair . it &apos;s usually 60 years old .</seg>
+</p>
+<p>
+<seg id=107> how young are you ?</seg>
+</p>
+<p>
+<seg id=108> yeah , i &apos;m young .</seg>
+</p>
+<p>
+<seg id=109> maybe .</seg>
+</p>
+<p>
+<seg id=110> you &apos;re the only one who cares about embarrassing things in your head .</seg>
+</p>
+<p>
+<seg id=111> i &apos;ll show you .</seg>
+</p>
+<p>
+<seg id=112> come here .</seg>
+</p>
+<p>
+<seg id=113> what ?</seg>
+</p>
+<p>
+<seg id=114> my friend ross is getting a divorce , but you &apos;re not going out with him ?</seg>
+</p>
+<p>
+<seg id=115> i &apos;ll go get ross .</seg>
+</p>
+<p>
+<seg id=116> i thought you were rachel . where did i get this ?</seg>
+</p>
+<p>
+<seg id=117> i have to tell her .</seg>
+</p>
+<p>
+<seg id=118> i already told ross and phoebe it was just her .</seg>
+</p>
+<p>
+<seg id=119> so everyone knows we &apos;re moving in together . we can &apos;t change our minds .</seg>
+</p>
+<p>
+<seg id=120> are you scared ? scared ?</seg>
+</p>
+<p>
+<seg id=121> no .</seg>
+</p>
+<p>
+<seg id=122> that &apos;s my worst voice . you &apos;re so brave .</seg>
+</p>
+<p>
+<seg id=123> rough day .</seg>
+</p>
+<p>
+<seg id=124> you think you &apos;re finally being valued , and the boss calls you &quot; <unk> . &quot;</seg>
+</p>
+<p>
+<seg id=125> the first four years , everyone calls me <unk> .</seg>
+</p>
+<p>
+<seg id=126> it &apos;s true .</seg>
+</p>
+<p>
+<seg id=127> i do .</seg>
+</p>
+<p>
+<seg id=128> they were having staff meetings , and no one would correct her .</seg>
+</p>
+<p>
+<seg id=129> so everyone calls it &quot; <unk> . &quot;</seg>
+</p>
+<p>
+<seg id=130> the guy from the mailroom is already <unk> .</seg>
+</p>
+<p>
+<seg id=131> i still think you &apos;re great . you &apos;re beautiful .</seg>
+</p>
+<p>
+<seg id=132> what ?</seg>
+</p>
+<p>
+<seg id=133> it &apos;s all yours .</seg>
+</p>
+<p>
+<seg id=134> sit .</seg>
+</p>
+<p>
+<seg id=135> look , chandler and i are staying here together .</seg>
+</p>
+<p>
+<seg id=136> oh , my god . this is amazing .</seg>
+</p>
+<p>
+<seg id=137> i &apos;m so happy for you guys .</seg>
+</p>
+<p>
+<seg id=138> really ?</seg>
+</p>
+<p>
+<seg id=139> that &apos;s nice of you to ask me first .</seg>
+</p>
+<p>
+<seg id=140> the three of us are gonna be so happy together .</seg>
+</p>
+<p>
+<seg id=141> yeah .</seg>
+</p>
+<p>
+<seg id=142> chandler , you can &apos;t shower in the morning . you know you can &apos;t be late .</seg>
+</p>
+<p>
+<seg id=143> he &apos;ll notice .</seg>
+</p>
+<p>
+<seg id=144> so excited .</seg>
+</p>
+<p>
+<seg id=145> to knock on my door .</seg>
+</p>
+<p>
+<seg id=146> we &apos;re waiting for you .</seg>
+</p>
+<p>
+<seg id=147> once you know something , it &apos;s not that bad .</seg>
+</p>
+<p>
+<seg id=148> it wasn &apos;t my fault that the first marriage was kept secret .</seg>
+</p>
+<p>
+<seg id=149> second marriage : under oath , a little bit is my fault .</seg>
+</p>
+<p>
+<seg id=150> third marriage .</seg>
+</p>
+<p>
+<seg id=151> you can &apos;t get married and drink and graffiti is wrong .</seg>
+</p>
+<p>
+<seg id=152> what do you think ? who doesn &apos;t want to date him ?</seg>
+</p>
+<p>
+<seg id=153> divorce doesn &apos;t matter . i &apos;ll date him , but i can &apos;t .</seg>
+</p>
+<p>
+<seg id=154> what about you ? you want to ?</seg>
+</p>
+<p>
+<seg id=155> actually , i &apos;m not going out anymore .</seg>
+</p>
+<p>
+<seg id=156> i always look at the wrong guy .</seg>
+</p>
+<p>
+<seg id=157> whatever .</seg>
+</p>
+<p>
+<seg id=158> meg , what about you ?</seg>
+</p>
+<p>
+<seg id=159> i don &apos;t care about divorce , but i won &apos;t date him .</seg>
+</p>
+<p>
+<seg id=160> he doesn &apos;t normally shed that much light .</seg>
+</p>
+<p>
+<seg id=161> it &apos;s just , he &apos;s obviously still in love with this rachel thing .</seg>
+</p>
+<p>
+<seg id=162> she said , &quot; he obviously still loves this rachel . &quot;</seg>
+</p>
+<p>
+<seg id=163> stop saying that . i mean , yes , rachel &apos;s my best friend .</seg>
+</p>
+<p>
+<seg id=164> she did love her , but now she &apos;s just my wife .</seg>
+</p>
+<p>
+<seg id=165> phoebe , would you mind ?</seg>
+</p>
+<p>
+<seg id=166> okay , i thought you loved her when you married her .</seg>
+</p>
+<p>
+<seg id=167> after all we drank , i &apos;d marry joey .</seg>
+</p>
+<p>
+<seg id=168> you did a lot worse than joey tribbiani .</seg>
+</p>
+<p>
+<seg id=169> i &apos;m sorry , but you &apos;re wrong . i just don &apos;t wanna get divorced three times .</seg>
+</p>
+<p>
+<seg id=170> that &apos;s right . he kept his marriage to her because he loved her .</seg>
+</p>
+<p>
+<seg id=171> i must say , meg , good job .</seg>
+</p>
+<p>
+<seg id=172> okay , if you want to get over the divorce three times ,</seg>
+</p>
+<p>
+<seg id=173> i &apos;m gonna go get a lawyer to cancel .</seg>
+</p>
+<p>
+<seg id=174> because i don &apos;t love her at all .</seg>
+</p>
+<p>
+<seg id=175> i can &apos;t date you now . you look a little jumpy .</seg>
+</p>
+<p>
+<seg id=176> i suddenly find him attractive .</seg>
+</p>
+<p>
+<seg id=177> when are we gonna tell rachel the truth ?</seg>
+</p>
+<p>
+<seg id=178> almost . i just couldn &apos;t say it . you saw the pain .</seg>
+</p>
+<p>
+<seg id=179> i couldn &apos;t bear to be her best friend .</seg>
+</p>
+<p>
+<seg id=180> joey &apos;s my best friend , too .</seg>
+</p>
+<p>
+<seg id=181> i &apos;m not your best friend ?</seg>
+</p>
+<p>
+<seg id=182> you said yourself ...</seg>
+</p>
+<p>
+<seg id=183> of course you &apos;re my best friend .</seg>
+</p>
+<p>
+<seg id=184> but would you please tell jane ?</seg>
+</p>
+<p>
+<seg id=185> okay , well , at least i &apos;m ready .</seg>
+</p>
+<p>
+<seg id=186> nice .</seg>
+</p>
+<p>
+<seg id=187> it &apos;s not for you . any unhappy ?</seg>
+</p>
+<p>
+<seg id=188> i do now .</seg>
+</p>
+<p>
+<seg id=189> hi . nice room . bye .</seg>
+</p>
+<p>
+<seg id=190> rachel , i have something important to tell you .</seg>
+</p>
+<p>
+<seg id=191> you &apos;re pregnant ?</seg>
+</p>
+<p>
+<seg id=192> no , but i &apos;m throwing it away .</seg>
+</p>
+<p>
+<seg id=193> thought there was some misunderstanding .</seg>
+</p>
+<p>
+<seg id=194> i said chandler and i want to live together .</seg>
+</p>
+<p>
+<seg id=195> it means only two people .</seg>
+</p>
+<p>
+<seg id=196> god , that &apos;s funny . i can &apos;t believe i &apos;m wrong .</seg>
+</p>
+<p>
+<seg id=197> no , you don &apos;t know . it &apos;s my fault . i &apos;m sorry .</seg>
+</p>
+<p>
+<seg id=198> you can do whatever you need to do to get your house slow .</seg>
+</p>
+<p>
+<seg id=199> okay .</seg>
+</p>
+<p>
+<seg id=200> okay .</seg>
+</p>
+<p>
+<seg id=201> you don &apos;t eat cookies ?</seg>
+</p>
+<p>
+<seg id=202> okay .</seg>
+</p>
+<p>
+<seg id=203> thanks . you need a tissue ?</seg>
+</p>
+<p>
+<seg id=204> where &apos;d you get the cookies ?</seg>
+</p>
+<p>
+<seg id=205> i did it .</seg>
+</p>
+<p>
+<seg id=206> oh , my god . this is delicious .</seg>
+</p>
+<p>
+<seg id=207> whose is this ?</seg>
+</p>
+<p>
+<seg id=208> my ...</seg>
+</p>
+<p>
+<seg id=209> what about this ?</seg>
+</p>
+<p>
+<seg id=210> and mine .</seg>
+</p>
+<p>
+<seg id=211> what about the dishwasher ?</seg>
+</p>
+<p>
+<seg id=212> when i moved in .</seg>
+</p>
+<p>
+<seg id=213> that &apos;s why i feel so guilty .</seg>
+</p>
+<p>
+<seg id=214> it &apos;s weird . you &apos;re gone when i get home .</seg>
+</p>
+<p>
+<seg id=215> no , joey and rachel are over . we &apos;re done .</seg>
+</p>
+<p>
+<seg id=216> &quot; do you want to go to joey and chandler &apos;s ? &quot;</seg>
+</p>
+<p>
+<seg id=217> &quot; no , it &apos;s gone . &quot;</seg>
+</p>
+<p>
+<seg id=218> i &apos;m just moving across the hall . i can still be the same .</seg>
+</p>
+<p>
+<seg id=219> but not in the middle of the night .</seg>
+</p>
+<p>
+<seg id=220> we didn &apos;t do it once .</seg>
+</p>
+<p>
+<seg id=221> you don &apos;t remember that night . it was late . i wasn &apos;t feeling well .</seg>
+</p>
+<p>
+<seg id=222> you said i &apos;d be better tomorrow ?</seg>
+</p>
+<p>
+<seg id=223> yeah , i remember .</seg>
+</p>
+<p>
+<seg id=224> i don &apos;t know . i &apos;m gonna miss those days with you , too .</seg>
+</p>
+<p>
+<seg id=225> what &apos;s that ?</seg>
+</p>
+<p>
+<seg id=226> gross .</seg>
+</p>
+<p>
+<seg id=227> i told rachel it was gonna be us , right ? is she okay ?</seg>
+</p>
+<p>
+<seg id=228> great . it was an accident .</seg>
+</p>
+<p>
+<seg id=229> no tears , no anger or sad .</seg>
+</p>
+<p>
+<seg id=230> you &apos;re upset because you didn &apos;t make your best friend cry ?</seg>
+</p>
+<p>
+<seg id=231> all i &apos;m asking is , it &apos;s 6 @-@ year @-@ old roommate .</seg>
+</p>
+<p>
+<seg id=232> what ? rachel and i are not . are you guys ready ?</seg>
+</p>
+<p>
+<seg id=233> i mean , aren &apos;t you happy ?</seg>
+</p>
+<p>
+<seg id=234> i don &apos;t deserve some tears ?</seg>
+</p>
+<p>
+<seg id=235> when we tell <unk> his eyes are coming out .</seg>
+</p>
+<p>
+<seg id=236> i didn &apos;t cry my eyes out .</seg>
+</p>
+<p>
+<seg id=237> come on . it &apos;s like a era . it &apos;s never over .</seg>
+</p>
+<p>
+<seg id=238> i have to ask , who calls us that ?</seg>
+</p>
+<p>
+<seg id=239> you &apos;re married again .</seg>
+</p>
+<p>
+<seg id=240> yeah .</seg>
+</p>
+<p>
+<seg id=241> this is your second wedding in february .</seg>
+</p>
+<p>
+<seg id=242> yes , two years . three times .</seg>
+</p>
+<p>
+<seg id=243> i &apos;ve been a divorce lawyer for 23 years , and i haven &apos;t felt this alone .</seg>
+</p>
+<p>
+<seg id=244> why didn &apos;t you tell me what happened ?</seg>
+</p>
+<p>
+<seg id=245> basically , rachel and i were in vegas . we were drunk ...</seg>
+</p>
+<p>
+<seg id=246> i &apos;m sorry , rach . the one you called the wrong name ?</seg>
+</p>
+<p>
+<seg id=247> yeah , but i don &apos;t love her .</seg>
+</p>
+<p>
+<seg id=248> that &apos;s better .</seg>
+</p>
+<p>
+<seg id=249> it &apos;s just a drunk mistake . i &apos;m canceling . i get it .</seg>
+</p>
+<p>
+<seg id=250> have you considered therapy ?</seg>
+</p>
+<p>
+<seg id=251> i think we should cancel today .</seg>
+</p>
+<p>
+<seg id=252> i need some forms .</seg>
+</p>
+<p>
+<seg id=253> it &apos;s easy .</seg>
+</p>
+<p>
+<seg id=254> there &apos;s got to be a witness that proves you were in trouble .</seg>
+</p>
+<p>
+<seg id=255> sure .</seg>
+</p>
+<p>
+<seg id=256> and i need you to tell the judge</seg>
+</p>
+<p>
+<seg id=257> can &apos;t we not talk to her ? i already told her it was done .</seg>
+</p>
+<p>
+<seg id=258> of course you did .</seg>
+</p>
+<p>
+<seg id=259> ross , you and rachel were there to cancel the annulment .</seg>
+</p>
+<p>
+<seg id=260> what about someone who looks like rachel ?</seg>
+</p>
+<p>
+<seg id=261> i &apos;ll consider therapy .</seg>
+</p>
+<p>
+<seg id=262> i think it &apos;s time to start sharing something .</seg>
+</p>
+<p>
+<seg id=263> okay .</seg>
+</p>
+<p>
+<seg id=264> you don &apos;t have to .</seg>
+</p>
+<p>
+<seg id=265> you move ? we don &apos;t live together .</seg>
+</p>
+<p>
+<seg id=266> okay .</seg>
+</p>
+<p>
+<seg id=267> rach , who &apos;s this for ?</seg>
+</p>
+<p>
+<seg id=268> i don &apos;t know . i don &apos;t think i want too much memories .</seg>
+</p>
+<p>
+<seg id=269> what &apos;s that ?</seg>
+</p>
+<p>
+<seg id=270> i don &apos;t know .</seg>
+</p>
+<p>
+<seg id=271> what about this ? i want you to keep a big plate .</seg>
+</p>
+<p>
+<seg id=272> thanks . i love this dish .</seg>
+</p>
+<p>
+<seg id=273> so you can remember me .</seg>
+</p>
+<p>
+<seg id=274> it &apos;s not dying . i &apos;m just moving out .</seg>
+</p>
+<p>
+<seg id=275> or do you see each other every day ?</seg>
+</p>
+<p>
+<seg id=276> but a big change can mean it &apos;s over in a time .</seg>
+</p>
+<p>
+<seg id=277> are you okay ? you didn &apos;t blink .</seg>
+</p>
+<p>
+<seg id=278> i &apos;m fine . i &apos;m just thinking about a time &apos;s over .</seg>
+</p>
+<p>
+<seg id=279> okay .</seg>
+</p>
+<p>
+<seg id=280> but honestly , i don &apos;t think six years is a time .</seg>
+</p>
+<p>
+<seg id=281> a time is a big day .</seg>
+</p>
+<p>
+<seg id=282> it &apos;s important to me . maybe it doesn &apos;t matter to you .</seg>
+</p>
+<p>
+<seg id=283> what &apos;s wrong with you ? what &apos;s wrong with you ?</seg>
+</p>
+<p>
+<seg id=284> why aren &apos;t you more upset ? you wanna split up ?</seg>
+</p>
+<p>
+<seg id=285> wouldn &apos;t miss me ?</seg>
+</p>
+<p>
+<seg id=286> okay , say it . don &apos;t freak me out .</seg>
+</p>
+<p>
+<seg id=287> it &apos;s just a little hard to believe ?</seg>
+</p>
+<p>
+<seg id=288> it means you guys . that &apos;s what you do , okay ?</seg>
+</p>
+<p>
+<seg id=289> you guys said you were getting married in vegas , and then you &apos;re back .</seg>
+</p>
+<p>
+<seg id=290> i &apos;m not sad because i don &apos;t think you &apos;re really gonna live together . i &apos;m sorry .</seg>
+</p>
+<p>
+<seg id=291> it &apos;s confirmed . <unk> moved in .</seg>
+</p>
+<p>
+<seg id=292> but ...</seg>
+</p>
+<p>
+<seg id=293> i know . just hear me out , okay ?</seg>
+</p>
+<p>
+<seg id=294> it &apos;s not the spur of the moment in las vegas . we really want to live together .</seg>
+</p>
+<p>
+<seg id=295> that &apos;s it ?</seg>
+</p>
+<p>
+<seg id=296> really ? yeah , honey .</seg>
+</p>
+<p>
+<seg id=297> meaning we can &apos;t live together anymore ?</seg>
+</p>
+<p>
+<seg id=298> no .</seg>
+</p>
+<p>
+<seg id=299> god , i &apos;m gonna miss you . i &apos;m gonna miss you , too .</seg>
+</p>
+<p>
+<seg id=300> it means it &apos;s an era . i know .</seg>
+</p>
+<p>
+<seg id=301> bye .</seg>
+</p>
+<p>
+<seg id=302> here we go .</seg>
+</p>
+<p>
+<seg id=303> did you get the annulment ? no .</seg>
+</p>
+<p>
+<seg id=304> i knew it , because you were too busy .</seg>
+</p>
+<p>
+<seg id=305> it &apos;s not that . it &apos;s more complicated than i thought ...</seg>
+</p>
+<p>
+<seg id=306> it &apos;s about love .</seg>
+</p>
+<p>
+<seg id=307> i &apos;m not proud .</seg>
+</p>
+<p>
+<seg id=308> i &apos;m gonna go tell her now so i can get the paperwork done .</seg>
+</p>
+<p>
+<seg id=309> would i do that if i loved her ?</seg>
+</p>
+<p>
+<seg id=310> i &apos;m more sure you love her now .</seg>
+</p>
+<p>
+<seg id=311> i don &apos;t feel anything , okay ?</seg>
+</p>
+<p>
+<seg id=312> what ?</seg>
+</p>
+<p>
+<seg id=313> monica and chandler are really moving in . i have to move out . everything &apos;s changing .</seg>
+</p>
+<p>
+<seg id=314> oh , my god . come here . it &apos;s okay . everything &apos;s gonna be okay .</seg>
+</p>
+<p>
+<seg id=315> thank you .</seg>
+</p>
+<p>
+<seg id=316> you &apos;re welcome .</seg>
+</p>
+<p>
+<seg id=317> ross and rachel got married . monica and chandler almost got married .</seg>
+</p>
+<p>
+<seg id=318> do you think we should do the same ?</seg>
+</p>
+<p>
+<seg id=319> yes , but not now .</seg>
+</p>
+<p>
+<seg id=320> really ? when was that ?</seg>
+</p>
+<p>
+<seg id=321> okay , first of all , chandler and monica are gonna get married .</seg>
+</p>
+<p>
+<seg id=322> but not enough .</seg>
+</p>
+<p>
+<seg id=323> wow . i know .</seg>
+</p>
+<p>
+<seg id=324> and i &apos;m gonna marry chandler for money .</seg>
+</p>
+<p>
+<seg id=325> you &apos;re marrying a couple beautiful kids . great .</seg>
+</p>
+<p>
+<seg id=326> but then we abandon them and we get married .</seg>
+</p>
+<p>
+<seg id=327> we &apos;re gonna have chandler &apos;s estate , rachel &apos;s baby .</seg>
+</p>
+<p>
+<seg id=328> custody is good , because rachel has a drinking problem .</seg>
+</p>
+<p>
+<seg id=329> what about ross ? i don &apos;t want to say anything , but ...</seg>
+</p>
+<p>
+<seg id=330> we fought , and i killed him .</seg>
+</p>
+</DOC>
+<DOC sysid="base" sysid="src" docid="SUB02">
+<p>
+<seg id=1> 23 .</seg>
+</p>
+<p>
+<seg id=2> damn it .</seg>
+</p>
+<p>
+<seg id=3> tony &apos;s in .</seg>
+</p>
+<p>
+<seg id=4> damn it . 23 is a birthday you should have bought that number .</seg>
+</p>
+<p>
+<seg id=5> five numbers .</seg>
+</p>
+<p>
+<seg id=6> he sold six red ones , too .</seg>
+</p>
+<p>
+<seg id=7> what a cock .</seg>
+</p>
+<p>
+<seg id=8> what &apos;s so exciting ?</seg>
+</p>
+<p>
+<seg id=9> tony , <unk> , 23 .</seg>
+</p>
+<p>
+<seg id=10> <unk> .</seg>
+</p>
+<p>
+<seg id=11> no leverage .</seg>
+</p>
+<p>
+<seg id=12> shall we move on ?</seg>
+</p>
+<p>
+<seg id=13> keep playing .</seg>
+</p>
+<p>
+<seg id=14> okay .</seg>
+</p>
+<p>
+<seg id=15> okay , my people .</seg>
+</p>
+<p>
+<seg id=16> all in . 23 .</seg>
+</p>
+<p>
+<seg id=17> really ?</seg>
+</p>
+<p>
+<seg id=18> i &apos;m sure it will .</seg>
+</p>
+<p>
+<seg id=19> okay . one more time , 23 .</seg>
+</p>
+<p>
+<seg id=20> 23 .</seg>
+</p>
+<p>
+<seg id=21> again .</seg>
+</p>
+<p>
+<seg id=22> 23 .</seg>
+</p>
+<p>
+<seg id=23> 23 .</seg>
+</p>
+<p>
+<seg id=24> 23 .</seg>
+</p>
+<p>
+<seg id=25> again ?</seg>
+</p>
+<p>
+<seg id=26> eleven .</seg>
+</p>
+<p>
+<seg id=27> damn it .</seg>
+</p>
+<p>
+<seg id=28> it &apos;s been a long night .</seg>
+</p>
+<p>
+<seg id=29> seriously ? vito almost threw me out .</seg>
+</p>
+<p>
+<seg id=30> damn it !</seg>
+</p>
+<p>
+<seg id=31> stand still .</seg>
+</p>
+<p>
+<seg id=32> ten sad people surprised her .</seg>
+</p>
+<p>
+<seg id=33> oh !</seg>
+</p>
+<p>
+<seg id=34> look at this mess .</seg>
+</p>
+<p>
+<seg id=35> hi .</seg>
+</p>
+<p>
+<seg id=36> sil .</seg>
+</p>
+<p>
+<seg id=37> how are you , sweetie ?</seg>
+</p>
+<p>
+<seg id=38> nice to meet you .</seg>
+</p>
+<p>
+<seg id=39> sit .</seg>
+</p>
+<p>
+<seg id=40> can i get you anything ?</seg>
+</p>
+<p>
+<seg id=41> coffee or dessert ?</seg>
+</p>
+<p>
+<seg id=42> let you guys talk .</seg>
+</p>
+<p>
+<seg id=43> what do you want ?</seg>
+</p>
+<p>
+<seg id=44> i appreciate it . let me see you .</seg>
+</p>
+<p>
+<seg id=45> you &apos;ve been taking care of vito since he died .</seg>
+</p>
+<p>
+<seg id=46> i really don &apos;t know who else to call ...</seg>
+</p>
+<p>
+<seg id=47> don &apos;t cry . don &apos;t do this .</seg>
+</p>
+<p>
+<seg id=48> what can i do ?</seg>
+</p>
+<p>
+<seg id=49> it &apos;s about little vito .</seg>
+</p>
+<p>
+<seg id=50> social worker says he &apos;s starting to grow old .</seg>
+</p>
+<p>
+<seg id=51> social worker ?</seg>
+</p>
+<p>
+<seg id=52> mostly boys .</seg>
+</p>
+<p>
+<seg id=53> but he &apos;s so angry .</seg>
+</p>
+<p>
+<seg id=54> a lot of bad things about him are <unk> .</seg>
+</p>
+<p>
+<seg id=55> they say he hangs the cat in the car &apos;s door .</seg>
+</p>
+<p>
+<seg id=56> but it &apos;s completely <unk> .</seg>
+</p>
+<p>
+<seg id=57> but you know what happened to vito , and all the racist things .</seg>
+</p>
+<p>
+<seg id=58> i think the only way out is to move out .</seg>
+</p>
+<p>
+<seg id=59> away from the house and the school kids .</seg>
+</p>
+<p>
+<seg id=60> i found it .</seg>
+</p>
+<p>
+<seg id=61> i know . it &apos;s a lot of money .</seg>
+</p>
+<p>
+<seg id=62> but only $ 100,000 .</seg>
+</p>
+<p>
+<seg id=63> you can move to a place no one knows .</seg>
+</p>
+<p>
+<seg id=64> my friend lives in maine .</seg>
+</p>
+<p>
+<seg id=65> next to <unk> .</seg>
+</p>
+<p>
+<seg id=66> there &apos;s an apartment nearby .</seg>
+</p>
+<p>
+<seg id=67> it &apos;s a good school .</seg>
+</p>
+<p>
+<seg id=68> you always say if there &apos;s anything you can do ,</seg>
+</p>
+<p>
+<seg id=69> of course .</seg>
+</p>
+<p>
+<seg id=70> did you talk to his uncle ?</seg>
+</p>
+<p>
+<seg id=71> who ?</seg>
+</p>
+<p>
+<seg id=72> phil ?</seg>
+</p>
+<p>
+<seg id=73> phil &apos;s not his uncle . he and i are distant cousins .</seg>
+</p>
+<p>
+<seg id=74> before we go further ,</seg>
+</p>
+<p>
+<seg id=75> making little vito and your family</seg>
+</p>
+<p>
+<seg id=76> before your friends and family split up ,</seg>
+</p>
+<p>
+<seg id=77> i should talk to him first . he can &apos;t even talk .</seg>
+</p>
+<p>
+<seg id=78> being a father wasn &apos;t easy .</seg>
+</p>
+<p>
+<seg id=79> yes .</seg>
+</p>
+<p>
+<seg id=80> but maybe it will .</seg>
+</p>
+<p>
+<seg id=81> okay , but you &apos;ll think about it , right ?</seg>
+</p>
+<p>
+<seg id=82> trust me , i &apos;ll take care of you . he &apos;ll be fine .</seg>
+</p>
+<p>
+<seg id=83> now .</seg>
+</p>
+<p>
+<seg id=84> little vito &apos;s obviously a handful .</seg>
+</p>
+<p>
+<seg id=85> it &apos;s not weird , because the dirt in our family ?</seg>
+</p>
+<p>
+<seg id=86> she wants $ 100,000 to change her scenery .</seg>
+</p>
+<p>
+<seg id=87> it &apos;s not working .</seg>
+</p>
+<p>
+<seg id=88> she should give him a puppy .</seg>
+</p>
+<p>
+<seg id=89> i don &apos;t think that &apos;s a good idea .</seg>
+</p>
+<p>
+<seg id=90> what &apos;s wrong with <unk> ?</seg>
+</p>
+<p>
+<seg id=91> because i &apos;m the boss of this family ?</seg>
+</p>
+<p>
+<seg id=92> where the hell is phil ?</seg>
+</p>
+<p>
+<seg id=93> he killed vito , started causing this trouble .</seg>
+</p>
+<p>
+<seg id=94> my most profitable man .</seg>
+</p>
+<p>
+<seg id=95> now i &apos;m being double @-@ crossed .</seg>
+</p>
+<p>
+<seg id=96> not to mention he &apos;s his uncle .</seg>
+</p>
+<p>
+<seg id=97> or a cousin or something ?</seg>
+</p>
+<p>
+<seg id=98> not your problem . agreed .</seg>
+</p>
+<p>
+<seg id=99> i agree to disagree .</seg>
+</p>
+<p>
+<seg id=100> i object to the short kick .</seg>
+</p>
+<p>
+<seg id=101> face it . they &apos;re hard to pull .</seg>
+</p>
+<p>
+<seg id=102> lost cause .</seg>
+</p>
+<p>
+<seg id=103> just like <unk> .</seg>
+</p>
+<p>
+<seg id=104> that attack was pushing 30 yards up .</seg>
+</p>
+<p>
+<seg id=105> come on ! come on !</seg>
+</p>
+<p>
+<seg id=106> watch .</seg>
+</p>
+<p>
+<seg id=107> you think that &apos;s gonna happen ?</seg>
+</p>
+<p>
+<seg id=108> no , i &apos;ll see . shoot . three points .</seg>
+</p>
+<p>
+<seg id=109> no doubt .</seg>
+</p>
+<p>
+<seg id=110> they &apos;re gonna chain it &apos;s what they do .</seg>
+</p>
+<p>
+<seg id=111> you bet the water buffalo wins ?</seg>
+</p>
+<p>
+<seg id=112> no , the pirate has three <unk> and i &apos;m not losing .</seg>
+</p>
+<p>
+<seg id=113> let &apos;s go ! let &apos;s go !</seg>
+</p>
+<p>
+<seg id=114> the third strike was too close to the goal . he wasn &apos;t holding it .</seg>
+</p>
+<p>
+<seg id=115> lose the ball ! pick it up !</seg>
+</p>
+<p>
+<seg id=116> strike again .</seg>
+</p>
+<p>
+<seg id=117> the ball fell off again .</seg>
+</p>
+<p>
+<seg id=118> get down on him !</seg>
+</p>
+<p>
+<seg id=119> oh , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no .</seg>
+</p>
+<p>
+<seg id=120> before the big leagues ,</seg>
+</p>
+<p>
+<seg id=121> unbelievable .</seg>
+</p>
+<p>
+<seg id=122> long live !</seg>
+</p>
+<p>
+<seg id=123> listen to that <unk> . it could only win the <unk> .</seg>
+</p>
+<p>
+<seg id=124> team bill <unk> .</seg>
+</p>
+<p>
+<seg id=125> tampa pirates are <unk> .</seg>
+</p>
+<p>
+<seg id=126> want more beer ?</seg>
+</p>
+<p>
+<seg id=127> no , i &apos;m gonna take a nap .</seg>
+</p>
+<p>
+<seg id=128> well done , sweetie .</seg>
+</p>
+<p>
+<seg id=129> everybody give me a big hand .</seg>
+</p>
+<p>
+<seg id=130> congratulations , <unk> .</seg>
+</p>
+<p>
+<seg id=131> thank you .</seg>
+</p>
+<p>
+<seg id=132> we were going to announce on holiday ,</seg>
+</p>
+<p>
+<seg id=133> but we found someone he suggested .</seg>
+</p>
+<p>
+<seg id=134> we &apos;ll see .</seg>
+</p>
+<p>
+<seg id=135> it &apos;s a good movie .</seg>
+</p>
+<p>
+<seg id=136> oh , my god . it &apos;s all wet .</seg>
+</p>
+<p>
+<seg id=137> wanna call ?</seg>
+</p>
+<p>
+<seg id=138> an hour ago .</seg>
+</p>
+<p>
+<seg id=139> i saw him re @-@ set up the <unk> with <unk> .</seg>
+</p>
+<p>
+<seg id=140> i was filming it .</seg>
+</p>
+<p>
+<seg id=141> i cried .</seg>
+</p>
+<p>
+<seg id=142> leaving ?</seg>
+</p>
+<p>
+<seg id=143> yeah , it &apos;s late .</seg>
+</p>
+<p>
+<seg id=144> from new jersey .</seg>
+</p>
+<p>
+<seg id=145> of course . i used to drive to new jersey .</seg>
+</p>
+<p>
+<seg id=146> not anymore .</seg>
+</p>
+<p>
+<seg id=147> i &apos;ll be right back .</seg>
+</p>
+<p>
+<seg id=148> congratulations again .</seg>
+</p>
+<p>
+<seg id=149> look , i need to talk about this .</seg>
+</p>
+<p>
+<seg id=150> so soon you &apos;re gonna help ?</seg>
+</p>
+<p>
+<seg id=151> what ?</seg>
+</p>
+<p>
+<seg id=152> anthony , you always do business .</seg>
+</p>
+<p>
+<seg id=153> no , no , no , no , no , no , no , no , no , no , no , no , no . no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no , no ,</seg>
+</p>
+<p>
+<seg id=154> diane came to me .</seg>
+</p>
+<p>
+<seg id=155> she wants $ 100,000 to move .</seg>
+</p>
+<p>
+<seg id=156> because little vito needs a social worker .</seg>
+</p>
+<p>
+<seg id=157> diane told me some things .</seg>
+</p>
+<p>
+<seg id=158> like father , like son .</seg>
+</p>
+<p>
+<seg id=159> nice metaphor .</seg>
+</p>
+<p>
+<seg id=160> but you &apos;re family , right , cousin ?</seg>
+</p>
+<p>
+<seg id=161> what are you gonna do ? money problems ?</seg>
+</p>
+<p>
+<seg id=162> someone has to pay for it .</seg>
+</p>
+<p>
+<seg id=163> i &apos;ll talk to him and set it up .</seg>
+</p>
+<p>
+<seg id=164> good .</seg>
+</p>
+<p>
+<seg id=165> you two going home together ?</seg>
+</p>
+<p>
+<seg id=166> how are you ?</seg>
+</p>
+<p>
+<seg id=167> damn prostate . i have to pee all night .</seg>
+</p>
+<p>
+<seg id=168> i don &apos;t want it to be my <unk> .</seg>
+</p>
+<p>
+<seg id=169> drink ?</seg>
+</p>
+<p>
+<seg id=170> i talked to phil about the <unk> center .</seg>
+</p>
+<p>
+<seg id=171> your one will be here soon .</seg>
+</p>
+<p>
+<seg id=172> christmas .</seg>
+</p>
+<p>
+<seg id=173> you should hear what he says tonight .</seg>
+</p>
+<p>
+<seg id=174> say something .</seg>
+</p>
+<p>
+<seg id=175> really ?</seg>
+</p>
+<p>
+<seg id=176> it worries me .</seg>
+</p>
+<p>
+<seg id=177> thought we &apos;d finally get along .</seg>
+</p>
+<p>
+<seg id=178> you know , considering .</seg>
+</p>
+<p>
+<seg id=179> to become an old @-@ fashioned man .</seg>
+</p>
+<p>
+<seg id=180> but i think the problem is his brother &apos;s death .</seg>
+</p>
+<p>
+<seg id=181> thought your cousin died and cleared it .</seg>
+</p>
+<p>
+<seg id=182> how was dinner ?</seg>
+</p>
+<p>
+<seg id=183> i &apos;ll go when i &apos;m done .</seg>
+</p>
+<p>
+<seg id=184> oh , really ?</seg>
+</p>
+<p>
+<seg id=185> i don &apos;t know .</seg>
+</p>
+<p>
+<seg id=186> look at my right hand .</seg>
+</p>
+<p>
+<seg id=187> paulie , my brother @-@ in @-@ law christopher</seg>
+</p>
+<p>
+<seg id=188> what was the first thing they planned ?</seg>
+</p>
+<p>
+<seg id=189> oh , my god . they &apos;re all <unk> .</seg>
+</p>
+<p>
+<seg id=190> young <unk> ?</seg>
+</p>
+<p>
+<seg id=191> what i &apos;m trying to say is ,</seg>
+</p>
+<p>
+<seg id=192> it feels good here .</seg>
+</p>
+<p>
+<seg id=193> always .</seg>
+</p>
+<p>
+<seg id=194> oh !</seg>
+</p>
+<p>
+<seg id=195> brought you something .</seg>
+</p>
+<p>
+<seg id=196> pull up bald .</seg>
+</p>
+<p>
+<seg id=197> actually , i thought it was something else .</seg>
+</p>
+<p>
+<seg id=198> want a dvd ?</seg>
+</p>
+<p>
+<seg id=199> to be honest , those movies are not welcome .</seg>
+</p>
+<p>
+<seg id=200> <unk></seg>
+</p>
+<p>
+<seg id=201> no , i thought that was your $ 200,000 .</seg>
+</p>
+<p>
+<seg id=202> oh , yeah .</seg>
+</p>
+<p>
+<seg id=203> i know , including all this time ...</seg>
+</p>
+<p>
+<seg id=204> you know i forgot .</seg>
+</p>
+<p>
+<seg id=205> i &apos;m glad you didn &apos;t forget .</seg>
+</p>
+<p>
+<seg id=206> i don &apos;t want to be alone .</seg>
+</p>
+<p>
+<seg id=207> no .</seg>
+</p>
+<p>
+<seg id=208> tony , come on . it &apos;s okay .</seg>
+</p>
+<p>
+<seg id=209> do you have $ 3,000 in here ?</seg>
+</p>
+<p>
+<seg id=210> come on .</seg>
+</p>
+<p>
+<seg id=211> you &apos;re taking it .</seg>
+</p>
+<p>
+<seg id=212> i don &apos;t want you eating cat food anymore .</seg>
+</p>
+<p>
+<seg id=213> stop .</seg>
+</p>
+<p>
+<seg id=214> i don &apos;t want to give you the interest .</seg>
+</p>
+<p>
+<seg id=215> no .</seg>
+</p>
+<p>
+<seg id=216> i should &apos;ve given interest .</seg>
+</p>
+<p>
+<seg id=217> are you sure you want it ?</seg>
+</p>
+<p>
+<seg id=218> oh , my god . are we gonna let this go ?</seg>
+</p>
+<p>
+<seg id=219> it &apos;s late .</seg>
+</p>
+<p>
+<seg id=220> we &apos;re going home .</seg>
+</p>
+<p>
+<seg id=221> you have to pee or do what you want .</seg>
+</p>
+<p>
+<seg id=222> i loan people money , and suddenly i &apos;m the bad guy .</seg>
+</p>
+<p>
+<seg id=223> why would he borrow your money ?</seg>
+</p>
+<p>
+<seg id=224> why ? go to the mat .</seg>
+</p>
+<p>
+<seg id=225> no , gambling is a luxury .</seg>
+</p>
+<p>
+<seg id=226> and the yacht .</seg>
+</p>
+<p>
+<seg id=227> $ <unk> warned him .</seg>
+</p>
+<p>
+<seg id=228> it &apos;s definitely not worth selling anymore .</seg>
+</p>
+<p>
+<seg id=229> did he listen ?</seg>
+</p>
+<p>
+<seg id=230> i took a lot of money from a loan shark .</seg>
+</p>
+<p>
+<seg id=231> everybody says , &quot; i forgot . &quot;</seg>
+</p>
+<p>
+<seg id=232> who &apos;s gonna forget ? tell him to die .</seg>
+</p>
+<p>
+<seg id=233> i don &apos;t like it when you see him before you sleep . look at you .</seg>
+</p>
+<p>
+<seg id=234> give me some interest . what &apos;s the big deal ?</seg>
+</p>
+<p>
+<seg id=235> three weeks .</seg>
+</p>
+<p>
+<seg id=236> you &apos;ve been in business with a lot of jewish people , right ?</seg>
+</p>
+<p>
+<seg id=237> my business ?</seg>
+</p>
+<p>
+<seg id=238> yeah .</seg>
+</p>
+<p>
+<seg id=239> you &apos;re gonna have to give it to them when it comes to money .</seg>
+</p>
+<p>
+<seg id=240> according to my experience ,</seg>
+</p>
+<p>
+<seg id=241> it &apos;s just a clueless bias , really ?</seg>
+</p>
+<p>
+<seg id=242> i have a friend . you haven &apos;t let one of those krugerrands go yet .</seg>
+</p>
+<p>
+<seg id=243> he &apos;s already on the shore .</seg>
+</p>
+<p>
+<seg id=244> like you said he was a friend .</seg>
+</p>
+<p>
+<seg id=245> stop it , old friend .</seg>
+</p>
+<p>
+<seg id=246> but it doesn &apos;t stop him because i owe him money .</seg>
+</p>
+<p>
+<seg id=247> i need a little cash register .</seg>
+</p>
+<p>
+<seg id=248> to the lost money we &apos;ve been talking about lately .</seg>
+</p>
+<p>
+<seg id=249> bet ?</seg>
+</p>
+<p>
+<seg id=250> you know the stakes aren &apos;t lost .</seg>
+</p>
+<p>
+<seg id=251> why not ?</seg>
+</p>
+<p>
+<seg id=252> i &apos;ve never been able to do anything</seg>
+</p>
+<p>
+<seg id=253> you &apos;ve been talking about it .</seg>
+</p>
+<p>
+<seg id=254> there &apos;s always a time to lose .</seg>
+</p>
+<p>
+<seg id=255> you &apos;re gonna pretend you &apos;re okay in front of your people .</seg>
+</p>
+<p>
+<seg id=256> but what &apos;s the point of losing anyway ?</seg>
+</p>
+<p>
+<seg id=257> so you &apos;re taking risks .</seg>
+</p>
+<p>
+<seg id=258> what are you after ?</seg>
+</p>
+<p>
+<seg id=259> money or pleasure ?</seg>
+</p>
+<p>
+<seg id=260> before it &apos;s over ,</seg>
+</p>
+<p>
+<seg id=261> there &apos;s something i need to talk about .</seg>
+</p>
+<p>
+<seg id=262> you missed a lot of appointments .</seg>
+</p>
+<p>
+<seg id=263> i &apos;ve always called ahead , or i &apos;ll pay for it .</seg>
+</p>
+<p>
+<seg id=264> that &apos;s not what i meant .</seg>
+</p>
+<p>
+<seg id=265> i &apos;m busy .</seg>
+</p>
+<p>
+<seg id=266> it &apos;s my fault . too much <unk> .</seg>
+</p>
+<p>
+<seg id=267> i haven &apos;t had a panic attack since my uncle got shot .</seg>
+</p>
+<p>
+<seg id=268> did you notice ?</seg>
+</p>
+<p>
+<seg id=269> got it .</seg>
+</p>
+<p>
+<seg id=270> it &apos;s great to know why .</seg>
+</p>
+<p>
+<seg id=271> that &apos;s why you &apos;re here ?</seg>
+</p>
+<p>
+<seg id=272> panic attacks ?</seg>
+</p>
+<p>
+<seg id=273> no .</seg>
+</p>
+<p>
+<seg id=274> this is a safe haven .</seg>
+</p>
+<p>
+<seg id=275> so that &apos;s the <unk> ?</seg>
+</p>
+<p>
+<seg id=276> no , i &apos;m learning so much from here .</seg>
+</p>
+<p>
+<seg id=277> you have to decide whether you want to go back to therapy .</seg>
+</p>
+<p>
+<seg id=278> but you know , there &apos;s a deal to follow .</seg>
+</p>
+<p>
+<seg id=279> or i can &apos;t go back to therapy .</seg>
+</p>
+<p>
+<seg id=280> fine . i &apos;ll think about it .</seg>
+</p>
+<p>
+<seg id=281> now i know the <unk> wants to be downstairs ,</seg>
+</p>
+<p>
+<seg id=282> but i think the gym room is better than the pool .</seg>
+</p>
+<p>
+<seg id=283> the inspector came .</seg>
+</p>
+<p>
+<seg id=284> i &apos;m getting someone on the phone .</seg>
+</p>
+<p>
+<seg id=285> but we don &apos;t know if it &apos;s over .</seg>
+</p>
+<p>
+<seg id=286> hello , <unk> .</seg>
+</p>
+<p>
+<seg id=287> come on in . this is our cousin carmela and carmela .</seg>
+</p>
+<p>
+<seg id=288> they &apos;re also <unk> .</seg>
+</p>
+<p>
+<seg id=289> oh , great .</seg>
+</p>
+<p>
+<seg id=290> starting over here ?</seg>
+</p>
+<p>
+<seg id=291> okay .</seg>
+</p>
+<p>
+<seg id=292> i didn &apos;t bring you out for ice cream .</seg>
+</p>
+<p>
+<seg id=293> milkshake .</seg>
+</p>
+<p>
+<seg id=294> i don &apos;t care what it &apos;s called .</seg>
+</p>
+<p>
+<seg id=295> what &apos;s wrong with you ?</seg>
+</p>
+<p>
+<seg id=296> you look like a puerto rican hooker . gross .</seg>
+</p>
+<p>
+<seg id=297> so ? what does it matter to you ?</seg>
+</p>
+<p>
+<seg id=298> look , you &apos;re gonna rebel .</seg>
+</p>
+<p>
+<seg id=299> i raised kids . i get it .</seg>
+</p>
+<p>
+<seg id=300> you &apos;re good .</seg>
+</p>
+<p>
+<seg id=301> you wanna call ?</seg>
+</p>
+<p>
+<seg id=302> have you ever thought about hurting your mother ?</seg>
+</p>
+<p>
+<seg id=303> after everything she &apos;s been through , you still have her ?</seg>
+</p>
+<p>
+<seg id=304> it &apos;s her .</seg>
+</p>
+<p>
+<seg id=305> she really needs you .</seg>
+</p>
+<p>
+<seg id=306> that &apos;s because you already know</seg>
+</p>
+<p>
+<seg id=307> you &apos;ve done enough to humiliate yourself .</seg>
+</p>
+<p>
+<seg id=308> you should be .</seg>
+</p>
+<p>
+<seg id=309> you understand ?</seg>
+</p>
+<p>
+<seg id=310> i don &apos;t understand .</seg>
+</p>
+<p>
+<seg id=311> god , being a man .</seg>
+</p>
+<p>
+<seg id=312> be a man she needs , strong , macho .</seg>
+</p>
+<p>
+<seg id=313> i said what i needed to say .</seg>
+</p>
+<p>
+<seg id=314> finish your car and drink .</seg>
+</p>
+<p>
+<seg id=315> i wanna spend some time sharing .</seg>
+</p>
+<p>
+<seg id=316> the good news about your mother buying the house .</seg>
+</p>
+<p>
+<seg id=317> great .</seg>
+</p>
+<p>
+<seg id=318> congratulations .</seg>
+</p>
+<p>
+<seg id=319> great .</seg>
+</p>
+<p>
+<seg id=320> actually , it &apos;s through the <unk> .</seg>
+</p>
+<p>
+<seg id=321> not after the loan came through .</seg>
+</p>
+<p>
+<seg id=322> okay , that &apos;s enough .</seg>
+</p>
+<p>
+<seg id=323> congratulations , carm . it &apos;s not easy to do .</seg>
+</p>
+<p>
+<seg id=324> i have your support .</seg>
+</p>
+<p>
+<seg id=325> i &apos;m sure it &apos;ll be great to have sex with cece .</seg>
+</p>
+<p>
+<seg id=326> i wish .</seg>
+</p>
+<p>
+<seg id=327> just two people ?</seg>
+</p>
+<p>
+<seg id=328> pretty big , huh ?</seg>
+</p>
+<p>
+<seg id=329> it &apos;s a mansion .</seg>
+</p>
+<p>
+<seg id=330> pass the salad .</seg>
+</p>
+<p>
+<seg id=331> their baby &apos;s almost born .</seg>
+</p>
+<p>
+<seg id=332> hello ?</seg>
+</p>
+<p>
+<seg id=333> have you seen it outside ?</seg>
+</p>
+<p>
+<seg id=334> seriously ?</seg>
+</p>
+<p>
+<seg id=335> we &apos;ve changed the materials on the <unk> .</seg>
+</p>
+<p>
+<seg id=336> what about steel bars ?</seg>
+</p>
+<p>
+<seg id=337> and the second floor <unk> ? i &apos;m worried .</seg>
+</p>
+<p>
+<seg id=338> now , first row .</seg>
+</p>
+<p>
+<seg id=339> i used the exact same ingredients before those <unk> took over .</seg>
+</p>
+<p>
+<seg id=340> i don &apos;t want to waste my sleep time .</seg>
+</p>
+<p>
+<seg id=341> lunch .</seg>
+</p>
+<p>
+<seg id=342> sausage and cheese .</seg>
+</p>
+<p>
+<seg id=343> that &apos;s chris &apos; .</seg>
+</p>
+<p>
+<seg id=344> oh , mysterious stranger .</seg>
+</p>
+<p>
+<seg id=345> hello .</seg>
+</p>
+<p>
+<seg id=346> it &apos;s been a long time .</seg>
+</p>
+<p>
+<seg id=347> sit . i just sent cece to physical therapy .</seg>
+</p>
+<p>
+<seg id=348> think it &apos;s time to join the club .</seg>
+</p>
+<p>
+<seg id=349> to play hardball .</seg>
+</p>
+<p>
+<seg id=350> don &apos;t be shy , sherlock .</seg>
+</p>
+<p>
+<seg id=351> when ? why not ?</seg>
+</p>
+<p>
+<seg id=352> he said , &quot; why ? &quot;</seg>
+</p>
+<p>
+<seg id=353> have you heard of jewish terrorists ?</seg>
+</p>
+<p>
+<seg id=354> he tried to hijack a plane , but he didn &apos;t want to fly free time .</seg>
+</p>
+<p>
+<seg id=355> want a sandwich ?</seg>
+</p>
+<p>
+<seg id=356> just had a nice meal .</seg>
+</p>
+<p>
+<seg id=357> he &apos;s not here to eat .</seg>
+</p>
+<p>
+<seg id=358> it &apos;s a stepping stone .</seg>
+</p>
+<p>
+<seg id=359> what ?</seg>
+</p>
+<p>
+<seg id=360> you know what ? i actually want a beer .</seg>
+</p>
+<p>
+<seg id=361> come on .</seg>
+</p>
+<p>
+<seg id=362> okay ?</seg>
+</p>
+<p>
+<seg id=363> it &apos;s been a week , isn &apos;t it ?</seg>
+</p>
+<p>
+<seg id=364> i have a little change left .</seg>
+</p>
+<p>
+<seg id=365> just kidding .</seg>
+</p>
+<p>
+<seg id=366> where &apos;s the sense of humor ?</seg>
+</p>
+<p>
+<seg id=367> it &apos;s more fun to put this in the jar .</seg>
+</p>
+<p>
+<seg id=368> i &apos;ll shoot .</seg>
+</p>
+<p>
+<seg id=369> have fun .</seg>
+</p>
+<p>
+<seg id=370> see ?</seg>
+</p>
+<p>
+<seg id=371> you sure you &apos;re right ?</seg>
+</p>
+<p>
+<seg id=372> yeah , it &apos;s normal . it could be kung pao chicken .</seg>
+</p>
+<p>
+<seg id=373> get me some wine .</seg>
+</p>
+<p>
+<seg id=374> okay , alcohol . that &apos;s good for it .</seg>
+</p>
+<p>
+<seg id=375> get it yourself .</seg>
+</p>
+<p>
+<seg id=376> no , the problem is tony soprano .</seg>
+</p>
+<p>
+<seg id=377> you know he helped me when i was in the hospital .</seg>
+</p>
+<p>
+<seg id=378> never borrow money from a friend .</seg>
+</p>
+<p>
+<seg id=379> he &apos;s not willing to pay it back ?</seg>
+</p>
+<p>
+<seg id=380> that &apos;s interest .</seg>
+</p>
+<p>
+<seg id=381> i think he &apos;s mad .</seg>
+</p>
+<p>
+<seg id=382> i don &apos;t like his <unk> reception .</seg>
+</p>
+<p>
+<seg id=383> it &apos;s not his fault . it worries me .</seg>
+</p>
+<p>
+<seg id=384> i know what you &apos;re thinking .</seg>
+</p>
+<p>
+<seg id=385> come on .</seg>
+</p>
+<p>
+<seg id=386> tony won &apos;t hurt you .</seg>
+</p>
+<p>
+<seg id=387> you &apos;ve seen these italians for a living .</seg>
+</p>
+<p>
+<seg id=388> usually it &apos;s like a normal person .</seg>
+</p>
+<p>
+<seg id=389> driving them crazy , you get treated like animals .</seg>
+</p>
+<p>
+<seg id=390> you think he &apos;s gonna kill you now ?</seg>
+</p>
+<p>
+<seg id=391> i don &apos;t know .</seg>
+</p>
+<p>
+<seg id=392> i had to go after him like that guy .</seg>
+</p>
+<p>
+<seg id=393> he &apos;s rich . he &apos;ll pay back .</seg>
+</p>
+<p>
+<seg id=394> his at least assets ?</seg>
+</p>
+<p>
+<seg id=395> that &apos;s not $ 6 million .</seg>
+</p>
+<p>
+<seg id=396> he &apos;s the boss .</seg>
+</p>
+<p>
+<seg id=397> for a long time .</seg>
+</p>
+<p>
+<seg id=398> spending money like water .</seg>
+</p>
+<p>
+<seg id=399> the more profitable it is ,</seg>
+</p>
+<p>
+<seg id=400> his wife ?</seg>
+</p>
+<p>
+<seg id=401> what &apos;s the other way to handle him ?</seg>
+</p>
+<p>
+<seg id=402> it &apos;s time to pull back .</seg>
+</p>
+<p>
+<seg id=403> yeah .</seg>
+</p>
+<p>
+<seg id=404> we may have won .</seg>
+</p>
+<p>
+<seg id=405> <unk> .</seg>
+</p>
+<p>
+<seg id=406> wants to go get some cow meat .</seg>
+</p>
+<p>
+<seg id=407> no kidding . i won ?</seg>
+</p>
+<p>
+<seg id=408> miracle .</seg>
+</p>
+<p>
+<seg id=409> yes ?</seg>
+</p>
+<p>
+<seg id=410> i &apos;m gonna need a fifth .</seg>
+</p>
+<p>
+<seg id=411> the fifth line is <unk> .</seg>
+</p>
+<p>
+<seg id=412> we &apos;re going to have to go to meadow &apos;s</seg>
+</p>
+<p>
+<seg id=413> three minutes .</seg>
+</p>
+<p>
+<seg id=414> just whiskey .</seg>
+</p>
+<p>
+<seg id=415> seven plus seven .</seg>
+</p>
+<p>
+<seg id=416> what can i get you ?</seg>
+</p>
+<p>
+<seg id=417> get him a beer .</seg>
+</p>
+<p>
+<seg id=418> whatever . i don &apos;t wanna miss this game .</seg>
+</p>
+<p>
+<seg id=419> let &apos;s go .</seg>
+</p>
+<p>
+<seg id=420> why is that sound gone , boss ? put a pin in it .</seg>
+</p>
+<p>
+<seg id=421> it could be $ 25,000 .</seg>
+</p>
+<p>
+<seg id=422> really ?</seg>
+</p>
+<p>
+<seg id=423> you got a problem ?</seg>
+</p>
+<p>
+<seg id=424> no , just excited . what do you want ?</seg>
+</p>
+<p>
+<seg id=425> it &apos;s too late .</seg>
+</p>
+<p>
+<seg id=426> sound ?</seg>
+</p>
+<p>
+<seg id=427> opened the sound .</seg>
+</p>
+<p>
+<seg id=428> come on , girl .</seg>
+</p>
+<p>
+<seg id=429> go , go , go , go , go !</seg>
+</p>
+<p>
+<seg id=430> come on !</seg>
+</p>
+<p>
+<seg id=431> she took the lead .</seg>
+</p>
+<p>
+<seg id=432> we &apos;re up . come on .</seg>
+</p>
+<p>
+<seg id=433> run , girl !</seg>
+</p>
+<p>
+<seg id=434> come on ! come on !</seg>
+</p>
+<p>
+<seg id=435> it &apos;s a <unk> now .</seg>
+</p>
+<p>
+<seg id=436> <unk> and <unk> are being <unk> .</seg>
+</p>
+<p>
+<seg id=437> it &apos;s a battle between <unk> and <unk> .</seg>
+</p>
+<p>
+<seg id=438> come on .</seg>
+</p>
+<p>
+<seg id=439> <unk> !</seg>
+</p>
+<p>
+<seg id=440> <unk> .</seg>
+</p>
+<p>
+<seg id=441> come on !</seg>
+</p>
+<p>
+<seg id=442> i won a <unk> distance .</seg>
+</p>
+<p>
+<seg id=443> tony loses a <unk> distance .</seg>
+</p>
+<p>
+<seg id=444> it &apos;s heartbreaking .</seg>
+</p>
+<p>
+<seg id=445> what are you gonna do ?</seg>
+</p>
+<p>
+<seg id=446> ma &apos;am , your dessert</seg>
+</p>
+<p>
+<seg id=447> i didn &apos;t order anything .</seg>
+</p>
+<p>
+<seg id=448> i ordered it for you .</seg>
+</p>
+<p>
+<seg id=449> you know i &apos;m losing weight .</seg>
+</p>
+<p>
+<seg id=450> what &apos;s in there ?</seg>
+</p>
+<p>
+<seg id=451> oh , my god , anthony .</seg>
+</p>
+<p>
+<seg id=452> you like it ?</seg>
+</p>
+<p>
+<seg id=453> it &apos;s beautiful .</seg>
+</p>
+<p>
+<seg id=454> i don &apos;t know what to say .</seg>
+</p>
+<p>
+<seg id=455> i know you &apos;re being <unk> .</seg>
+</p>
+<p>
+<seg id=456> you and father have a lot of problems ... i &apos;m not his father .</seg>
+</p>
+<p>
+<seg id=457> i know , but it &apos;s not just that .</seg>
+</p>
+<p>
+<seg id=458> what &apos;s the problem ? i &apos;ll try to make money .</seg>
+</p>
+<p>
+<seg id=459> you know i &apos;ll take care of you .</seg>
+</p>
+<p>
+<seg id=460> i won &apos;t be manager for three months .</seg>
+</p>
+<p>
+<seg id=461> three more months is a manager .</seg>
+</p>
+<p>
+<seg id=462> i &apos;ll have a chain store after the beep .</seg>
+</p>
+<p>
+<seg id=463> i &apos;ll just wait for a minute .</seg>
+</p>
+<p>
+<seg id=464> look , i love you .</seg>
+</p>
+<p>
+<seg id=465> i love you , too .</seg>
+</p>
+<p>
+<seg id=466> then marry me , and we &apos;ll be fine .</seg>
+</p>
+<p>
+<seg id=467> you keep saying you want to have a brother and sister .</seg>
+</p>
+<p>
+<seg id=468> okay .</seg>
+</p>
+<p>
+<seg id=469> can i get you some coffee ?</seg>
+</p>
+<p>
+<seg id=470> no , i think it &apos;s time to talk .</seg>
+</p>
+<p>
+<seg id=471> how was school today ?</seg>
+</p>
+<p>
+<seg id=472> everything &apos;s on me .</seg>
+</p>
+<p>
+<seg id=473> this little girl &apos;s growing up .</seg>
+</p>
+<p>
+<seg id=474> uncle phil said he talked to you .</seg>
+</p>
+<p>
+<seg id=475> is he wasting his breath ?</seg>
+</p>
+<p>
+<seg id=476> that &apos;s what you told us ?</seg>
+</p>
+<p>
+<seg id=477> the trouble you caused .</seg>
+</p>
+<p>
+<seg id=478> i &apos;m disappointed because you &apos;re always a good kid .</seg>
+</p>
+<p>
+<seg id=479> you don &apos;t even know me .</seg>
+</p>
+<p>
+<seg id=480> what do you mean ?</seg>
+</p>
+<p>
+<seg id=481> sometimes you call me carlo .</seg>
+</p>
+<p>
+<seg id=482> look , all i hear is how good your dad says you are .</seg>
+</p>
+<p>
+<seg id=483> you know , we &apos;re good friends .</seg>
+</p>
+<p>
+<seg id=484> good friend in bed ?</seg>
+</p>
+<p>
+<seg id=485> funny .</seg>
+</p>
+<p>
+<seg id=486> it &apos;s a good thing .</seg>
+</p>
+<p>
+<seg id=487> because i &apos;m sure you miss him .</seg>
+</p>
+<p>
+<seg id=488> no matter how he was alive ,</seg>
+</p>
+<p>
+<seg id=489> now i &apos;d like to say something .</seg>
+</p>
+<p>
+<seg id=490> to watch me talk .</seg>
+</p>
+<p>
+<seg id=491> i &apos;m not going anywhere , maine .</seg>
+</p>
+<p>
+<seg id=492> who do you think wants to move ? do you know how much money your mother &apos;s gonna spend ?</seg>
+</p>
+<p>
+<seg id=493> whatever .</seg>
+</p>
+<p>
+<seg id=494> listen to me .</seg>
+</p>
+<p>
+<seg id=495> i &apos;m not a lecture social worker .</seg>
+</p>
+<p>
+<seg id=496> now we &apos;re gonna have to put this away .</seg>
+</p>
+<p>
+<seg id=497> or i &apos;ll send you to juvie .</seg>
+</p>
+<p>
+<seg id=498> somebody should have told my dad that .</seg>
+</p>
+<p>
+<seg id=499> you &apos;re gonna have to start blaming yourself .</seg>
+</p>
+<p>
+<seg id=500> what &apos;s your mother &apos;s condition ?</seg>
+</p>
+<p>
+<seg id=501> what can i do ?</seg>
+</p>
+<p>
+<seg id=502> your dad &apos;s dead . you &apos;re the man of the family now .</seg>
+</p>
+<p>
+<seg id=503> damn it . act like a man .</seg>
+</p>
+<p>
+<seg id=504> you understand ?</seg>
+</p>
+<p>
+<seg id=505> i just signed up .</seg>
+</p>
+<p>
+<seg id=506> come here .</seg>
+</p>
+<p>
+<seg id=507> we can celebrate or go out for a nightcap .</seg>
+</p>
+<p>
+<seg id=508> maybe . i don &apos;t know .</seg>
+</p>
+<p>
+<seg id=509> why not ?</seg>
+</p>
+<p>
+<seg id=510> you know , tony .</seg>
+</p>
+<p>
+<seg id=511> it &apos;s just a little upset about the whole deal .</seg>
+</p>
+<p>
+<seg id=512> oh , my god . remember those damn wood again ?</seg>
+</p>
+<p>
+<seg id=513> carmela , how many people did your cousin lie to ?</seg>
+</p>
+<p>
+<seg id=514> trust me .</seg>
+</p>
+<p>
+<seg id=515> what &apos;s <unk> ?</seg>
+</p>
+<p>
+<seg id=516> <unk> construction .</seg>
+</p>
+<p>
+<seg id=517> <unk> .</seg>
+</p>
+<p>
+<seg id=518> there &apos;s got to be something .</seg>
+</p>
+<p>
+<seg id=519> oh .</seg>
+</p>
+<p>
+<seg id=520> you know what to do ?</seg>
+</p>
+<p>
+<seg id=521> we should get some out and get some <unk> .</seg>
+</p>
+<p>
+<seg id=522> oh , right . that &apos;s very creative .</seg>
+</p>
+<p>
+<seg id=523> seriously , we &apos;re not losing .</seg>
+</p>
+<p>
+<seg id=524> now it &apos;s &quot; we . &quot;</seg>
+</p>
+<p>
+<seg id=525> i &apos;m sure the winner is working at the club .</seg>
+</p>
+<p>
+<seg id=526> she has a sister who lives in <unk> .</seg>
+</p>
+<p>
+<seg id=527> she &apos;s an ortho specialist . she said the quarterback</seg>
+</p>
+<p>
+<seg id=528> right leg , right leg .</seg>
+</p>
+<p>
+<seg id=529> not even vegas gambling company .</seg>
+</p>
+<p>
+<seg id=530> i &apos;m not talking about <unk> .</seg>
+</p>
+<p>
+<seg id=531> you know , just my half .</seg>
+</p>
+<p>
+<seg id=532> you have plenty of money , tony . take the money that &apos;s hidden .</seg>
+</p>
+<p>
+<seg id=533> those money are for emergencies .</seg>
+</p>
+<p>
+<seg id=534> my other funds are on the <unk> .</seg>
+</p>
+<p>
+<seg id=535> what assets ?</seg>
+</p>
+<p>
+<seg id=536> listen to me . this is all a sham .</seg>
+</p>
+<p>
+<seg id=537> free money .</seg>
+</p>
+<p>
+<seg id=538> that &apos;s what this is about .</seg>
+</p>
+<p>
+<seg id=539> i &apos;m telling you , we &apos;re in a rut .</seg>
+</p>
+<p>
+<seg id=540> okay , look .</seg>
+</p>
+<p>
+<seg id=541> never mind .</seg>
+</p>
+<p>
+<seg id=542> i shouldn &apos;t have mentioned it .</seg>
+</p>
+<p>
+<seg id=543> i mean , it &apos;s ...</seg>
+</p>
+<p>
+<seg id=544> nothing . i just thought it was my money .</seg>
+</p>
+<p>
+<seg id=545> yeah , that &apos;s right .</seg>
+</p>
+<p>
+<seg id=546> it &apos;s yours .</seg>
+</p>
+<p>
+<seg id=547> <unk> .</seg>
+</p>
+<p>
+<seg id=548> what ?</seg>
+</p>
+<p>
+<seg id=549> back to the door . lock the door .</seg>
+</p>
+<p>
+<seg id=550> what &apos;s going on ?</seg>
+</p>
+<p>
+<seg id=551> do what i say .</seg>
+</p>
+<p>
+<seg id=552> what are you doing here ?</seg>
+</p>
+<p>
+<seg id=553> nice to meet you .</seg>
+</p>
+<p>
+<seg id=554> watching cnn &apos;s stupid play .</seg>
+</p>
+<p>
+<seg id=555> we &apos;re on our way to a swim @-@ off .</seg>
+</p>
+<p>
+<seg id=556> thought you might want to go , too .</seg>
+</p>
+<p>
+<seg id=557> i wanna go .</seg>
+</p>
+<p>
+<seg id=558> the migraine coming on .</seg>
+</p>
+<p>
+<seg id=559> it &apos;s too late .</seg>
+</p>
+<p>
+<seg id=560> it &apos;s not too late for interest .</seg>
+</p>
+<p>
+<seg id=561> i really can &apos;t take it . it &apos;s convenient .</seg>
+</p>
+<p>
+<seg id=562> you always do that ?</seg>
+</p>
+<p>
+<seg id=563> whatever .</seg>
+</p>
+<p>
+<seg id=564> here . have a drink .</seg>
+</p>
+<p>
+<seg id=565> we &apos;re leaving .</seg>
+</p>
+<p>
+<seg id=566> okay , but next time ,</seg>
+</p>
+<p>
+<seg id=567> you sure ?</seg>
+</p>
+<p>
+<seg id=568> next time , i &apos;ll call first .</seg>
+</p>
+<p>
+<seg id=569> did you see that look on your face ?</seg>
+</p>
+<p>
+<seg id=570> to come and play .</seg>
+</p>
+<p>
+<seg id=571> not to mention the interest in him in private .</seg>
+</p>
+<p>
+<seg id=572> trust this guy ?</seg>
+</p>
+<p>
+<seg id=573> should &apos;ve told him to pay his $ 200,000 back .</seg>
+</p>
+<p>
+<seg id=574> what &apos;s he gonna do to it ?</seg>
+</p>
+<p>
+<seg id=575> you don &apos;t want to pay me back ? boss loan me money ?</seg>
+</p>
+<p>
+<seg id=576> how ugly ?</seg>
+</p>
+<p>
+<seg id=577> who knows ?</seg>
+</p>
+<p>
+<seg id=578> it &apos;s like <unk> .</seg>
+</p>
+<p>
+<seg id=579> the guy from philly ?</seg>
+</p>
+<p>
+<seg id=580> the one with the <unk> ?</seg>
+</p>
+<p>
+<seg id=581> no , it &apos;s from &quot; <unk> . &quot;</seg>
+</p>
+<p>
+<seg id=582> you must have seen that show .</seg>
+</p>
+<p>
+<seg id=583> maybe it &apos;s time to get gay and not watch tv .</seg>
+</p>
+<p>
+<seg id=584> because vito made a lot of money . you triple the money .</seg>
+</p>
+<p>
+<seg id=585> true .</seg>
+</p>
+<p>
+<seg id=586> i &apos;m not gonna end up in debt to people .</seg>
+</p>
+<p>
+<seg id=587> fuck !</seg>
+</p>
+<p>
+<seg id=588> what ?</seg>
+</p>
+<p>
+<seg id=589> won , right ?</seg>
+</p>
+<p>
+<seg id=590> no . only $ 100,000 .</seg>
+</p>
+<p>
+<seg id=591> but i won . what did i say ?</seg>
+</p>
+<p>
+<seg id=592> what did i tell you ? this ball &apos;s gonna win .</seg>
+</p>
+<p>
+<seg id=593> you call gambling like a science .</seg>
+</p>
+<p>
+<seg id=594> i lost a lot of money .</seg>
+</p>
+<p>
+<seg id=595> you didn &apos;t lose .</seg>
+</p>
+<p>
+<seg id=596> you could &apos;ve turned that garbage into a million dollars .</seg>
+</p>
+<p>
+<seg id=597> that garbage ?</seg>
+</p>
+<p>
+<seg id=598> that house is an investment .</seg>
+</p>
+<p>
+<seg id=599> for my future .</seg>
+</p>
+<p>
+<seg id=600> it &apos;s war .</seg>
+</p>
+<p>
+<seg id=601> cece &apos;s moving in with her daughter .</seg>
+</p>
+<p>
+<seg id=602> another card ?</seg>
+</p>
+<p>
+<seg id=603> john stayed . she &apos;s crazy .</seg>
+</p>
+<p>
+<seg id=604> you ever wonder what i might be doing ?</seg>
+</p>
+<p>
+<seg id=605> you and the furniture , the car ,</seg>
+</p>
+<p>
+<seg id=606> if it costs you the money i already made ,</seg>
+</p>
+<p>
+<seg id=607> how about this ? next time , i &apos;ll split one .</seg>
+</p>
+<p>
+<seg id=608> i &apos;m in charge .</seg>
+</p>
+<p>
+<seg id=609> you already took your share of the pot .</seg>
+</p>
+<p>
+<seg id=610> don &apos;t ever admit it again .</seg>
+</p>
+<p>
+<seg id=611> what ? the stock market ?</seg>
+</p>
+<p>
+<seg id=612> i want my share , but nothing .</seg>
+</p>
+<p>
+<seg id=613> that house is my deposit .</seg>
+</p>
+<p>
+<seg id=614> that i bought .</seg>
+</p>
+<p>
+<seg id=615> i paid $ 200 , and you &apos;re just gonna blow your fingers off !</seg>
+</p>
+<p>
+<seg id=616> so don &apos;t say it &apos;s your money !</seg>
+</p>
+<p>
+<seg id=617> get off me , you scumbag !</seg>
+</p>
+<p>
+<seg id=618> you &apos;re an idiot with a dark side .</seg>
+</p>
+<p>
+<seg id=619> that house is gonna kill you any minute .</seg>
+</p>
+<p>
+<seg id=620> now you can &apos;t sleep .</seg>
+</p>
+<p>
+<seg id=621> go to hell .</seg>
+</p>
+<p>
+<seg id=622> i don &apos;t care when i die .</seg>
+</p>
+<p>
+<seg id=623> i really ... told you , bro .</seg>
+</p>
+<p>
+<seg id=624> there &apos;s no reason to touch a ball in the middle of nowhere .</seg>
+</p>
+<p>
+<seg id=625> i &apos;ve never seen that bad pass .</seg>
+</p>
+<p>
+<seg id=626> get out .</seg>
+</p>
+<p>
+<seg id=627> hey , no one &apos;s throwing soap on the table .</seg>
+</p>
+<p>
+<seg id=628> hi . i can see him .</seg>
+</p>
+<p>
+<seg id=629> what are you looking at , gay ?</seg>
+</p>
+<p>
+<seg id=630> really ?</seg>
+</p>
+<p>
+<seg id=631> he pooped .</seg>
+</p>
+<p>
+<seg id=632> oh !</seg>
+</p>
+<p>
+<seg id=633> oh , my god . what &apos;s wrong with you ?</seg>
+</p>
+<p>
+<seg id=634> and stepped on it .</seg>
+</p>
+<p>
+<seg id=635> oh , gross !</seg>
+</p>
+<p>
+<seg id=636> he pooped in the bathroom .</seg>
+</p>
+<p>
+<seg id=637> are you crazy ?</seg>
+</p>
+<p>
+<seg id=638> that idiot &apos;s car is still in the garage .</seg>
+</p>
+<p>
+<seg id=639> so we &apos;re gonna speed it up .</seg>
+</p>
+<p>
+<seg id=640> to <unk> avenue .</seg>
+</p>
+<p>
+<seg id=641> that shitty car started asking questions .</seg>
+</p>
+<p>
+<seg id=642> any word from the electrician ?</seg>
+</p>
+<p>
+<seg id=643> yeah , that &apos;s for spanish pigs . first thing on friday .</seg>
+</p>
+<p>
+<seg id=644> hey , is the <unk> ready ?</seg>
+</p>
+<p>
+<seg id=645> ready to unload it .</seg>
+</p>
+<p>
+<seg id=646> speaking of <unk> know about vito junior ?</seg>
+</p>
+<p>
+<seg id=647> what &apos;s going on ?</seg>
+</p>
+<p>
+<seg id=648> diane called .</seg>
+</p>
+<p>
+<seg id=649> because he was kicked out of the bathroom in the shower .</seg>
+</p>
+<p>
+<seg id=650> damn it , perv .</seg>
+</p>
+<p>
+<seg id=651> you should go see him .</seg>
+</p>
+<p>
+<seg id=652> the makeup .</seg>
+</p>
+<p>
+<seg id=653> he &apos;s not at school . he &apos;s always locked up in a house .</seg>
+</p>
+<p>
+<seg id=654> probably planning a school shooting .</seg>
+</p>
+<p>
+<seg id=655> but <unk> .</seg>
+</p>
+<p>
+<seg id=656> <unk> .</seg>
+</p>
+<p>
+<seg id=657> i &apos;m crazy .</seg>
+</p>
+<p>
+<seg id=658> mom only cries . she &apos;s 9 .</seg>
+</p>
+<p>
+<seg id=659> what did she do wrong ?</seg>
+</p>
+<p>
+<seg id=660> tragic .</seg>
+</p>
+<p>
+<seg id=661> it &apos;s like i &apos;m walking into a lake and i can &apos;t even feel it .</seg>
+</p>
+<p>
+<seg id=662> that &apos;s not how it works .</seg>
+</p>
+<p>
+<seg id=663> vito was one of us .</seg>
+</p>
+<p>
+<seg id=664> he &apos;s gay , but he &apos;s our friend .</seg>
+</p>
+<p>
+<seg id=665> it &apos;s not about his family .</seg>
+</p>
+<p>
+<seg id=666> that scumbag had never asked for help .</seg>
+</p>
+<p>
+<seg id=667> i &apos;ll tell you what . i &apos;ll never forget he had one .</seg>
+</p>
+<p>
+<seg id=668> not at all .</seg>
+</p>
+<p>
+<seg id=669> don &apos;t worry , tony .</seg>
+</p>
+<p>
+<seg id=670> it &apos;s good for you , tony .</seg>
+</p>
+<p>
+<seg id=671> it won &apos;t .</seg>
+</p>
+<p>
+<seg id=672> okay , let &apos;s go . i &apos;m gonna go check out the <unk> .</seg>
+</p>
+<p>
+<seg id=673> any sign of the <unk> ?</seg>
+</p>
+<p>
+<seg id=674> hey , buddy .</seg>
+</p>
+<p>
+<seg id=675> yeah .</seg>
+</p>
+<p>
+<seg id=676> hi . so early .</seg>
+</p>
+<p>
+<seg id=677> i need to talk to you .</seg>
+</p>
+<p>
+<seg id=678> yes ?</seg>
+</p>
+<p>
+<seg id=679> what &apos;s this ?</seg>
+</p>
+<p>
+<seg id=680> your clothes .</seg>
+</p>
+<p>
+<seg id=681> i cleaned up a few days .</seg>
+</p>
+<p>
+<seg id=682> not laundry .</seg>
+</p>
+<p>
+<seg id=683> mommy !</seg>
+</p>
+<p>
+<seg id=684> sit down .</seg>
+</p>
+<p>
+<seg id=685> what about beth ?</seg>
+</p>
+<p>
+<seg id=686> i &apos;m leaving with my brother .</seg>
+</p>
+<p>
+<seg id=687> what ?</seg>
+</p>
+<p>
+<seg id=688> i &apos;m gonna give you this ring back .</seg>
+</p>
+<p>
+<seg id=689> i can &apos;t take it .</seg>
+</p>
+<p>
+<seg id=690> why ? i mean , i love you .</seg>
+</p>
+<p>
+<seg id=691> i love you , too .</seg>
+</p>
+<p>
+<seg id=692> probably not . i don &apos;t know .</seg>
+</p>
+<p>
+<seg id=693> i know . i just don &apos;t feel that way .</seg>
+</p>
+<p>
+<seg id=694> you hear the dolphin show ?</seg>
+</p>
+<p>
+<seg id=695> he &apos;s completely <unk> .</seg>
+</p>
+<p>
+<seg id=696> that damn motorcycle !</seg>
+</p>
+<p>
+<seg id=697> luckily , the helm saved his life .</seg>
+</p>
+<p>
+<seg id=698> we can &apos;t do it on sunday ?</seg>
+</p>
+<p>
+<seg id=699> maybe a season .</seg>
+</p>
+<p>
+<seg id=700> what about the backup kicker ? he just got out of college .</seg>
+</p>
+<p>
+<seg id=701> we &apos;re gonna have to deal with philly in a pinch .</seg>
+</p>
+<p>
+<seg id=702> is that a good thing ?</seg>
+</p>
+<p>
+<seg id=703> i &apos;m taking $ 100,000 to philly .</seg>
+</p>
+<p>
+<seg id=704> if i win , i can move the new house .</seg>
+</p>
+<p>
+<seg id=705> yeah , yeah . hi .</seg>
+</p>
+<p>
+<seg id=706> because carlo said that guy climbed up a few kittens in a <unk> .</seg>
+</p>
+<p>
+<seg id=707> no . he pooped in the bathroom .</seg>
+</p>
+<p>
+<seg id=708> well , there &apos;s a way to handle this .</seg>
+</p>
+<p>
+<seg id=709> what a perfect ending .</seg>
+</p>
+<p>
+<seg id=710> they can &apos;t stop miami .</seg>
+</p>
+<p>
+<seg id=711> miami dolphins , philadelphia eagles , 21 @-@ seven .</seg>
+</p>
+<p>
+<seg id=712> when you have that secret weapon ,</seg>
+</p>
+<p>
+<seg id=713> the whole game changes .</seg>
+</p>
+<p>
+<seg id=714> how are things going ?</seg>
+</p>
+<p>
+<seg id=715> he snuck out last night .</seg>
+</p>
+<p>
+<seg id=716> i told you i wanted to help you .</seg>
+</p>
+<p>
+<seg id=717> tony , i really don &apos;t know what to do .</seg>
+</p>
+<p>
+<seg id=718> i have an idea .</seg>
+</p>
+<p>
+<seg id=719> there &apos;s a kid like that in idaho .</seg>
+</p>
+<p>
+<seg id=720> idaho ?</seg>
+</p>
+<p>
+<seg id=721> you know , it &apos;s like shooting fish in a barrel , you know ?</seg>
+</p>
+<p>
+<seg id=722> i saw it on tv .</seg>
+</p>
+<p>
+<seg id=723> frankly , some real stories cost me my tears .</seg>
+</p>
+<p>
+<seg id=724> it &apos;s a camp ?</seg>
+</p>
+<p>
+<seg id=725> school style .</seg>
+</p>
+<p>
+<seg id=726> tony .</seg>
+</p>
+<p>
+<seg id=727> they &apos;ll allow it .</seg>
+</p>
+<p>
+<seg id=728> he told me about these places .</seg>
+</p>
+<p>
+<seg id=729> in utah ,</seg>
+</p>
+<p>
+<seg id=730> because those two state laws allow children</seg>
+</p>
+<p>
+<seg id=731> it &apos;s just a form of lymphoma .</seg>
+</p>
+<p>
+<seg id=732> it &apos;s gonna cost me money , but i &apos;ll help you out .</seg>
+</p>
+<p>
+<seg id=733> don &apos;t worry .</seg>
+</p>
+<p>
+<seg id=734> moving is not an emotion issue .</seg>
+</p>
+<p>
+<seg id=735> maine or somewhere else .</seg>
+</p>
+<p>
+<seg id=736> hello ?</seg>
+</p>
+<p>
+<seg id=737> yeah .</seg>
+</p>
+<p>
+<seg id=738> i know it &apos;s hard to accept ,</seg>
+</p>
+<p>
+<seg id=739> but it &apos;s the best way for him .</seg>
+</p>
+<p>
+<seg id=740> let &apos;s go .</seg>
+</p>
+<p>
+<seg id=741> thanks , tony .</seg>
+</p>
+<p>
+<seg id=742> look , tony , it &apos;s ...</seg>
+</p>
+<p>
+<seg id=743> what &apos;s it called ? they used to hang out at the club .</seg>
+</p>
+<p>
+<seg id=744> vito , it &apos;s time to get up .</seg>
+</p>
+<p>
+<seg id=745> what the hell ?</seg>
+</p>
+<p>
+<seg id=746> vito , i &apos;m <unk> . i &apos;m here to help you .</seg>
+</p>
+<p>
+<seg id=747> you &apos;re coming with us , okay ?</seg>
+</p>
+<p>
+<seg id=748> get up .</seg>
+</p>
+<p>
+<seg id=749> what do you mean ?</seg>
+</p>
+<p>
+<seg id=750> go !</seg>
+</p>
+<p>
+<seg id=751> no ! let go of me !</seg>
+</p>
+<p>
+<seg id=752> let &apos;s go .</seg>
+</p>
+<p>
+<seg id=753> it &apos;s okay .</seg>
+</p>
+<p>
+<seg id=754> let go , mom ! no !</seg>
+</p>
+<p>
+<seg id=755> it &apos;s okay .</seg>
+</p>
+<p>
+<seg id=756> i &apos;m sorry , son .</seg>
+</p>
+<p>
+<seg id=757> stop ! let go of me !</seg>
+</p>
+<p>
+<seg id=758> everything &apos;s gonna be okay .</seg>
+</p>
+<p>
+<seg id=759> you have to insist . you &apos;re right .</seg>
+</p>
+<p>
+<seg id=760> who are you ?</seg>
+</p>
+<p>
+<seg id=761> go back to bed .</seg>
+</p>
+<p>
+<seg id=762> mrs. <unk> , he &apos;ll be fine .</seg>
+</p>
+<p>
+<seg id=763> mom !</seg>
+</p>
+<p>
+<seg id=764> i &apos;m sorry .</seg>
+</p>
+<p>
+<seg id=765> no .</seg>
+</p>
+<p>
+<seg id=766> oh , my god .</seg>
+</p>
+<p>
+<seg id=767> one goal before the fire started .</seg>
+</p>
+<p>
+<seg id=768> you know , before the game is over ,</seg>
+</p>
+<p>
+<seg id=769> he &apos;s got an army to lead the team to one point .</seg>
+</p>
+<p>
+<seg id=770> so what ? we &apos;re done here ?</seg>
+</p>
+<p>
+<seg id=771> come here . listen to me .</seg>
+</p>
+<p>
+<seg id=772> yes ?</seg>
+</p>
+<p>
+<seg id=773> sit down .</seg>
+</p>
+<p>
+<seg id=774> come on .</seg>
+</p>
+<p>
+<seg id=775> i &apos;m sorry .</seg>
+</p>
+<p>
+<seg id=776> oh , it &apos;s very expensive .</seg>
+</p>
+<p>
+<seg id=777> you did a great job with the house .</seg>
+</p>
+<p>
+<seg id=778> i built my own building . i should know .</seg>
+</p>
+<p>
+<seg id=779> i &apos;m glad to hear your compliment .</seg>
+</p>
+<p>
+<seg id=780> i &apos;ve been doing some research lately .</seg>
+</p>
+<p>
+<seg id=781> just lost again .</seg>
+</p>
+<p>
+<seg id=782> never won .</seg>
+</p>
+<p>
+<seg id=783> then your strategy is to raise your arms and keep losing .</seg>
+</p>
+<p>
+<seg id=784> when you started chasing that feeling ,</seg>
+</p>
+<p>
+<seg id=785> every time it comes to happiness ,</seg>
+</p>
+<p>
+<seg id=786> it &apos;s just a matter of time .</seg>
+</p>
+<p>
+<seg id=787> this is about money ? it &apos;s not like it &apos;s true .</seg>
+</p>
+<p>
+<seg id=788> carm , i swear to you , you &apos;re not gonna do that</seg>
+</p>
+<p>
+<seg id=789> i had plans .</seg>
+</p>
+<p>
+<seg id=790> it &apos;s not gonna happen to us .</seg>
+</p>
+<p>
+<seg id=791> what i hate is you always say it &apos;s gonna be like it .</seg>
+</p>
+<p>
+<seg id=792> i &apos;m worried about tony . i &apos;m really worried .</seg>
+</p>
+<p>
+<seg id=793> you &apos;ve been shot .</seg>
+</p>
+<p>
+<seg id=794> you won &apos;t even buy insurance ? who &apos;s out there ?</seg>
+</p>
+<p>
+<seg id=795> stop thinking that .</seg>
+</p>
+<p>
+<seg id=796> what &apos;s that ?</seg>
+</p>
+<p>
+<seg id=797> there are so many other possibilities ?</seg>
+</p>
+<p>
+<seg id=798> the feds will take you anywhere .</seg>
+</p>
+<p>
+<seg id=799> and you &apos;re still eating .</seg>
+</p>
+<p>
+<seg id=800> pretend it doesn &apos;t fall off the piano with a rope in his head .</seg>
+</p>
+<p>
+<seg id=801> stop . i &apos;ve been thinking about it .</seg>
+</p>
+<p>
+<seg id=802> the bullet didn &apos;t die .</seg>
+</p>
+<p>
+<seg id=803> what are the odds ?</seg>
+</p>
+<p>
+<seg id=804> it &apos;s rare .</seg>
+</p>
+<p>
+<seg id=805> well , if you think about it ,</seg>
+</p>
+<p>
+<seg id=806> i don &apos;t know .</seg>
+</p>
+<p>
+<seg id=807> what ?</seg>
+</p>
+<p>
+<seg id=808> <unk> .</seg>
+</p>
+<p>
+<seg id=809> that was me , not <unk> .</seg>
+</p>
+<p>
+<seg id=810> 10 : 30 .</seg>
+</p>
+<p>
+<seg id=811> 10 : 30 . what do you want for breakfast ?</seg>
+</p>
+<p>
+<seg id=812> <unk> ?</seg>
+</p>
+<p>
+<seg id=813> <unk> ?</seg>
+</p>
+<p>
+<seg id=814> oh , my god .</seg>
+</p>
+<p>
+<seg id=815> hang on , <unk> .</seg>
+</p>
+<p>
+<seg id=816> <unk> .</seg>
+</p>
+<p>
+<seg id=817> <unk> .</seg>
+</p>
+<p>
+<seg id=818> 911 . what &apos;s your emergency ?</seg>
+</p>
+<p>
+<seg id=819> she &apos;s a good girl .</seg>
+</p>
+<p>
+<seg id=820> thank you .</seg>
+</p>
+<p>
+<seg id=821> not one .</seg>
+</p>
+<p>
+<seg id=822> i ...</seg>
+</p>
+<p>
+<seg id=823> i brought your money .</seg>
+</p>
+<p>
+<seg id=824> i &apos;m sorry for your loss .</seg>
+</p>
+</DOC>
+</tstset>
