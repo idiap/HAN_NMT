@@ -3,7 +3,7 @@
 Implementation HAN module of "Document-Level Neural Machine Translation with Hierarchical Attention Networks".
 
 ## Source
->	HierarquicalContext.py
+>	HierarchicalContext.py
 
 ## Test files
 The output files of the 3 reported systems: transformer NMT, cache NMT, HAN-decoder NMT, HAN-encoder NMT, HAN-encoder-decoder NMT.
