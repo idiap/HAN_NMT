@@ -1,6 +1,6 @@
 ## Description
 
-Implementation HAN module of "Document-Level Neural Machine Translation with Hierarchical Attention Networks".
+Implementation HAN module of "Document-Level Neural Machine Translation with Hierarchical Attention Networks". It works on OpenNMT (v.2.1) https://github.com/OpenNMT/OpenNMT-py
 
 ## Source
 >	HierarquicalContext.py
