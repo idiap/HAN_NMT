@@ -1,11 +1,11 @@
 ## Description
 
-Implementation of the paper "Document-Level Neural Machine Translation with Hierarchical Attention Networks". It is based on OpenNMT (v.2.1) https://github.com/OpenNMT/OpenNMT-py
+Implementation of the paper ["Document-Level Neural Machine Translation with Hierarchical Attention Networks"](http://www.aclweb.org/anthology/D18-1325). It is based on OpenNMT (v.2.1) https://github.com/OpenNMT/OpenNMT-py
 
 This is a restricted version. It DOES NOT work for shards, and multimodal translation.
 
 ## Preprocess
-The data, similary for any NMT baseline, consists on a source file and a target file which are aligned at sentence-level. However, the sentences should be in order for each document (e.i. not shuffled). Additionally, the model requires a file (doc_file) indicating the beginning of each document in the source file. Each line of the doc_file indicates the number of line at the source file where a new document starts. 
+The data, similary for any NMT baseline, consists of a source file and a target file which are aligned at sentence-level. However, the sentences should be in order for each document (i.e. not shuffled). Additionally, the model requires a file (doc_file) indicating the beginning of each document in the source file. Each line of the doc_file indicates the number of lines at the source file where a new document starts. 
 
 Example: 
 
@@ -15,12 +15,12 @@ Example:
 
 There are 3 documents. The first one from line 0 to line 9, the second from line 10 to 24, the third from line 25 to the end.
 
-
 Command:
 ```
 python preprocess.py -train_src [source_file] -train_tgt [target_file] -train_doc [doc_file] 
 -valid_src [source_dev_file] -valid_tgt [target_dev_file] -valid_doc [doc_dev_file] -save_data [out_file]
 ```
+The folder preprocess_TED_zh-en contains the files to preprocess the TED Talks zh-en dataset from https://wit3.fbk.eu/mt.php?release=2015-01.
 
 ## Training
 Training the sentence-level NMT baseline:
