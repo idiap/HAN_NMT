@@ -81,7 +81,8 @@ The output files of the 3 reported systems: transformer NMT, cache NMT, HAN-deco
 
 
 ## Reference:
->Miculicich, L., Ram, D., Pappas, N. & Henderson, J. Document-Level Neural Machine Translation with Hierarchical Attention Networks. EMNLP 2018. https://www.aclweb.org/anthology/people/l/lesly-miculicich-werlen/
+>Miculicich, L., Ram, D., Pappas, N. & Henderson, J. Document-Level Neural Machine Translation with Hierarchical Attention Networks. EMNLP 2018. 
+https://www.aclweb.org/anthology/D18-1325/
  
 ## Contact:
 lmiculicich@idiap.ch
