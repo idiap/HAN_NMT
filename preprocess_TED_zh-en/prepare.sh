@@ -1,12 +1,12 @@
 #!/bin/bash
-moses_scripts=/idiap/user/lmiculicich/Installations/mosesdecoder/scripts
+moses_scripts=/content/mosesdecoder/scripts
 
-zh_segment_home=/idiap/home/lmiculicich/.cache/pip/wheels/ce/32/de/c2be1db5f30804bc7f146ff698c52963f8aa11ba5049811b0d
+# zh_segment_home=/idiap/home/lmiculicich/.cache/pip/wheels/ce/32/de/c2be1db5f30804bc7f146ff698c52963f8aa11ba5049811b0d
 #kpu_preproc_dir=/fs/zisa0/bhaddow/code/preprocess/build/bin
 
 max_len=200
 
-export PYTHONPATH=$zh_segment_home
+# export PYTHONPATH=$zh_segment_home
 
 src=zh
 tgt=en
@@ -54,5 +54,5 @@ for devset in dev2010 tst2010 tst2011 tst2012 tst2013; do
 
 done
 
-python /idiap/temp/lmiculicich/OpenNMT-py/preprocess.py -train_src /idiap/temp/lmiculicich/data/TED/zh-en/corpus.tc.zh -train_tgt /idiap/temp/lmiculicich/data/TED/zh-en/corpus.tc.en -train_doc /idiap/temp/lmiculicich/data/TED/zh-en/corpus.doc -valid_src /idiap/temp/lmiculicich/data/TED/zh-en/IWSLT15.TED.dev2010.tc.zh -valid_tgt /idiap/temp/lmiculicich/data/TED/zh-en/IWSLT15.TED.dev2010.tc.en -valid_doc /idiap/temp/lmiculicich/data/TED/zh-en/IWSLT15.TED.dev2010.zh-en.doc -save_data /idiap/temp/lmiculicich/data/TED/zh-en/IWSLT15.TED -src_vocab_size 30000 -tgt_vocab_size 30000 -src_seq_length 80 -tgt_seq_length 80
+python /content/HAN_NMT/full_source/preprocess.py -train_src /content/2015-01/texts/zh/en/zh-en/corpus.tc.zh -train_tgt /content/2015-01/texts/zh/en/zh-en/corpus.tc.en -train_doc /content/2015-01/texts/zh/en/zh-en/corpus.doc -valid_src /content/2015-01/texts/zh/en/zh-en/IWSLT15.TED.dev2010.tc.zh -valid_tgt /content/2015-01/texts/zh/en/zh-en/IWSLT15.TED.dev2010.tc.en -valid_doc /content/2015-01/texts/zh/en/zh-en/IWSLT15.TED.dev2010.zh-en.doc -save_data /content/2015-01/texts/zh/en/zh-en/IWSLT15.TED -src_vocab_size 30000 -tgt_vocab_size 30000 -src_seq_length 80 -tgt_seq_length 80
 
