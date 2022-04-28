@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
 
+from __future__ import absolute_import
+from __future__ import generator_stop
 from itertools import chain
 import torchtext, sys
+from six.moves import zip
 
 
 PAD_WORD = '<blank>'
@@ -32,7 +35,7 @@ class ONMTDatasetBase(torchtext.data.Dataset):
 
     def __reduce_ex__(self, proto):
         "This is a hack. Something is broken with torch pickle."
-        return super(ONMTDatasetBase, self).__reduce_ex__()
+        return super(ONMTDatasetBase, self).__reduce_ex__(proto)
 
     def load_fields(self, vocab_dict):
         """ Load fields from vocab.pt, and set the `fields` attribute.
@@ -42,7 +45,7 @@ class ONMTDatasetBase(torchtext.data.Dataset):
         """
         from onmt.io.IO import load_fields_from_vocab
 
-        fields = load_fields_from_vocab(vocab_dict.items(), self.data_type)
+        fields = load_fields_from_vocab(list(vocab_dict.items()), self.data_type)
         self.fields = dict([(k, f) for (k, f) in fields.items()
                            if k in self.examples[0].__dict__])
 
@@ -80,7 +83,7 @@ class ONMTDatasetBase(torchtext.data.Dataset):
         Returns:
             a single dictionary that has the union of these keys.
         """
-        return dict(chain(*[d.items() for d in args]))
+        return dict(chain(*[list(d.items()) for d in args]))
 
     def _peek(self, seq):
         """

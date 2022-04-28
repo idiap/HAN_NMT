@@ -1,3 +1,4 @@
+from __future__ import absolute_import
 from onmt.modules.UtilClass import LayerNorm, Elementwise, PositionwiseFeedForward, FeedForward
 from onmt.modules.Gate import context_gate_factory, ContextGate
 from onmt.modules.GlobalAttention import GlobalAttention
@@ -36,7 +37,7 @@ __all__ = [EncoderBase, MeanEncoder, RNNDecoderBase, InputFeedRNNDecoder,
            MatrixTree, WeightNormConv2d, ConvMultiStepAttention,
            CNNEncoder, CNNDecoder, StackedLSTM, StackedGRU,
            context_gate_factory, CopyGeneratorLossCompute, AudioEncoder, 
-		   HierarchicalContext]
+       HierarchicalContext]
 
 if can_use_sru:
     __all__.extend([SRU, check_sru_requirement])

@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+from __future__ import absolute_import
 import codecs
 import os
 
@@ -7,6 +8,8 @@ import torch
 import torchtext
 
 from onmt.io.DatasetBase import ONMTDatasetBase, PAD_WORD, BOS_WORD, EOS_WORD
+from six.moves import range
+from six.moves import zip
 
 
 class AudioDataset(ONMTDatasetBase):
@@ -57,7 +60,7 @@ class AudioDataset(ONMTDatasetBase):
 
         # Peek at the first to see which fields are used.
         ex, examples_iter = self._peek(examples_iter)
-        keys = ex.keys()
+        keys = list(ex.keys())
 
         out_fields = [(k, fields[k]) if k in fields else (k, None)
                       for k in keys]

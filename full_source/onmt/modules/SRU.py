@@ -1,5 +1,6 @@
 # flake8: noqa
 
+from __future__ import absolute_import
 import subprocess
 import platform
 import os
@@ -9,6 +10,7 @@ import torch
 import torch.nn as nn
 from torch.autograd import Function, Variable
 from collections import namedtuple
+from six.moves import range
 
 
 # For command-line option parsing

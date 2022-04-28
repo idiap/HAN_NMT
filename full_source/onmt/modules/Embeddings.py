@@ -1,3 +1,4 @@
+from __future__ import absolute_import
 import torch
 import torch.nn as nn
 from torch.autograd import Variable
@@ -5,6 +6,7 @@ import math
 
 from onmt.modules import Elementwise
 from onmt.Utils import aeq
+from six.moves import zip
 
 
 class PositionalEncoding(nn.Module):
@@ -118,7 +120,7 @@ class Embeddings(nn.Module):
 
         # The embedding matrix look-up tables. The first look-up table
         # is for words. Subsequent ones are for features, if any exist.
-        emb_params = zip(vocab_sizes, emb_dims, pad_indices)
+        emb_params = list(zip(vocab_sizes, emb_dims, pad_indices))
         embeddings = [nn.Embedding(vocab, dim, padding_idx=pad, sparse=sparse)
                       for vocab, dim, pad in emb_params]
         emb_luts = Elementwise(feat_merge, embeddings)

@@ -15,6 +15,8 @@
 # You should have received a copy of the GNU General Public License
 # along with HAN-NMT. If not, see <http://www.gnu.org/licenses/>.
 
+from __future__ import absolute_import
+from __future__ import print_function
 import torch.optim as optim
 from torch.nn.utils import clip_grad_norm
 
@@ -155,7 +157,7 @@ class Optim(object):
 
         if self.start_decay:
             self.lr = self.lr * self.lr_decay
-            print("Decaying learning rate to %g" % self.lr)
+            print(("Decaying learning rate to %g" % self.lr))
 
         self.last_ppl = ppl
         if self.method != 'sparseadam':

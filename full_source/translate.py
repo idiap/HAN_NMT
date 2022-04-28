@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 from __future__ import division, unicode_literals
+from __future__ import absolute_import
 import argparse
 
 from onmt.translate.Translator import make_translator

@@ -1,3 +1,4 @@
+from __future__ import absolute_import
 from onmt.io.IO import collect_feature_vocabs, make_features, \
                        collect_features, get_num_features, \
                        load_fields_from_vocab, get_fields, \

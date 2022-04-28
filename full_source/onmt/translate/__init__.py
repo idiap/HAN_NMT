@@ -1,3 +1,4 @@
+from __future__ import absolute_import
 from onmt.translate.Translator import Translator
 from onmt.translate.Translation import Translation, TranslationBuilder
 from onmt.translate.Beam import Beam, GNMTGlobalScorer

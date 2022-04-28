@@ -1,7 +1,9 @@
+from __future__ import absolute_import
 import torch.nn as nn
 import torch.nn.functional as F
 import torch
 from torch.autograd import Variable
+from six.moves import range
 
 
 class ImageEncoder(nn.Module):

@@ -1,6 +1,7 @@
 """
 Implementation of "Convolutional Sequence to Sequence Learning"
 """
+from __future__ import absolute_import
 import torch
 import torch.nn as nn
 import torch.nn.init as init
@@ -12,6 +13,8 @@ from onmt.modules.WeightNorm import WeightNormConv2d
 from onmt.Models import EncoderBase
 from onmt.Models import DecoderState
 from onmt.Utils import aeq
+from six.moves import range
+from six.moves import zip
 
 
 SCALE_WEIGHT = 0.5 ** 0.5

@@ -1,4 +1,5 @@
 from __future__ import print_function
+from __future__ import absolute_import
 import sys
 import os
 import argparse
@@ -14,6 +15,7 @@ from onmt.translate.Translator import make_translator
 import onmt
 import onmt.opts
 import onmt.translate
+from six.moves import zip
 
 
 class Timer:
@@ -101,11 +103,11 @@ class TranslationServer():
            It will effectively load the model if `load` is set
         """
         if model_id is not None:
-            if model_id in self.models.keys():
+            if model_id in list(self.models.keys()):
                 raise ValueError("Model ID %d already exists" % model_id)
         else:
             model_id = self.next_id
-            while model_id in self.models.keys():
+            while model_id in list(self.models.keys()):
                 model_id += 1
             self.next_id = model_id + 1
         print("Pre-loading model %d" % model_id)
@@ -309,7 +311,7 @@ class ServerModel:
         avg_scores = [sum([s * l for s, l in zip(scores[sub], sslength[sub])])
                       / sum(sslength[sub])
                       for k, sub
-                      in sorted(subsegment.items(), key=lambda x: x[0])]
+                      in sorted(list(subsegment.items()), key=lambda x: x[0])]
 
         self.clear_out_file()
         return results, avg_scores, self.opt.n_best, timer.times

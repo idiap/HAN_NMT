@@ -1,3 +1,4 @@
+from __future__ import absolute_import
 import torch.nn as nn
 import torch.nn.functional as F
 import torch

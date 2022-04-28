@@ -1,7 +1,11 @@
 from __future__ import division, unicode_literals
 
+from __future__ import absolute_import
+from __future__ import print_function
 import torch
 import onmt.io
+from six.moves import range
+from six.moves import zip
 
 
 class TranslationBuilder(object):
@@ -50,7 +54,7 @@ class TranslationBuilder(object):
         assert(len(translation_batch["gold_score"]) ==
                len(translation_batch["predictions"]))
         batch_size = batch.batch_size
-	ctx_attn = translation_batch["ctx_attn"]
+  ctx_attn = translation_batch["ctx_attn"]
 
         preds, pred_score, attn, gold_score, indices = list(zip(
             *sorted(zip(translation_batch["predictions"],
@@ -137,13 +141,13 @@ class Translation(object):
         best_score = self.pred_scores[0]
         pred_sent = ' '.join(best_pred)
         output += 'PRED {}: {}\n'.format(sent_number, pred_sent)
-        print("PRED SCORE: {:.4f}".format(best_score))
+        print(("PRED SCORE: {:.4f}".format(best_score)))
 
         if self.gold_sent is not None:
             tgt_sent = ' '.join(self.gold_sent)
             output += 'GOLD {}: {}\n'.format(sent_number, tgt_sent)
             # output += ("GOLD SCORE: {:.4f}".format(self.gold_score))
-            print("GOLD SCORE: {:.4f}".format(self.gold_score))
+            print(("GOLD SCORE: {:.4f}".format(self.gold_score)))
         if len(self.pred_sents) > 1:
             print('\nBEST HYP:')
             for score, sent in zip(self.pred_scores, self.pred_sents):

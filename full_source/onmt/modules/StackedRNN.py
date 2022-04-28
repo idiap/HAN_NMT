@@ -1,5 +1,7 @@
+from __future__ import absolute_import
 import torch
 import torch.nn as nn
+from six.moves import range
 
 
 class StackedLSTM(nn.Module):

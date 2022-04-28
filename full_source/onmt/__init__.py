@@ -1,3 +1,4 @@
+from __future__ import absolute_import
 import onmt.io
 import onmt.Models
 import onmt.Loss
