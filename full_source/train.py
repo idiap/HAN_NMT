@@ -237,7 +237,7 @@ def make_dataset_iter(datasets, fields, opt, is_train=True):
       tgt_elements = count * max_tgt_in_batch
       return max(src_elements, tgt_elements)
 
-  device = opt.gpuid[0] if opt.gpuid else -1
+  device = torch.device('cuda') if opt.gpuid else -1
 
   return DatasetLazyIter(datasets, fields, batch_size, batch_size_fn,
                device, is_train, opt.train_part)
