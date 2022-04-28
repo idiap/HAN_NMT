@@ -148,7 +148,7 @@ class LossComputeBase(nn.Module):
     def _stats(self, loss, scores, target):
         """
         Args:
-            loss (:obj:`FloatTensor`): the loss computed by the loss criterion.
+            loss (:obj:`float`): the loss computed by the loss criterion.
             scores (:obj:`FloatTensor`): a score for each possible output
             target (:obj:`FloatTensor`): true targets
 
@@ -160,7 +160,7 @@ class LossComputeBase(nn.Module):
         num_correct = pred.eq(target) \
                           .masked_select(non_padding) \
                           .sum()
-        return onmt.Statistics(loss[0], non_padding.sum(), num_correct)
+        return onmt.Statistics(loss, non_padding.sum(), num_correct)
 
     def _bottle(self, v):
         return v.view(-1, v.size(2))
