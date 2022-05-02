@@ -54,6 +54,8 @@ for devset in dev2010 tst2010 tst2011 tst2012 tst2013; do
 
 done
 
-DATA_DIR=/content/gdrive/MyDrive//2015-01/texts/zh/en/zh-en
+# DATA_DIR=/content/gdrive/MyDrive/2015-01/texts/zh/en/zh-en
+DATA_DIR=$1
+echo "data_dir: $DATA_DIR"
 python /content/HAN_NMT/full_source/preprocess.py -train_src $DATA_DIR/corpus.tc.zh -train_tgt $DATA_DIR/corpus.tc.en -train_doc $DATA_DIR/corpus.doc -valid_src $DATA_DIR/IWSLT15.TED.dev2010.tc.zh -valid_tgt $DATA_DIR/IWSLT15.TED.dev2010.tc.en -valid_doc $DATA_DIR/IWSLT15.TED.dev2010.zh-en.doc -save_data $DATA_DIR/IWSLT15.TED -src_vocab_size 30000 -tgt_vocab_size 30000 -src_seq_length 80 -tgt_seq_length 80
 
