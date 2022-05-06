@@ -57,5 +57,5 @@ done
 # DATA_DIR=/content/gdrive/MyDrive/2015-01/texts/zh/en/zh-en
 DATA_DIR=$1
 echo "data_dir: $DATA_DIR"
-python /content/HAN_NMT/full_source/preprocess.py -train_src $DATA_DIR/corpus.tc.$tgt -train_tgt $DATA_DIR/corpus.tc.$src -train_doc $DATA_DIR/corpus.doc -valid_src $DATA_DIR/IWSLT15.TED.dev2010.tc.$tgt -valid_tgt $DATA_DIR/IWSLT15.TED.dev2010.tc.$src -valid_doc $DATA_DIR/IWSLT15.TED.dev2010.$tgt-$src.doc -save_data $DATA_DIR/IWSLT15.TED -src_vocab_size 30000 -tgt_vocab_size 30000 -src_seq_length 80 -tgt_seq_length 80
+python /content/HAN_NMT/full_source/preprocess.py -train_src $DATA_DIR/corpus.tc.$src -train_tgt $DATA_DIR/corpus.tc.$tgt -train_doc $DATA_DIR/corpus.doc -valid_src $DATA_DIR/IWSLT15.TED.dev2010.tc.$src -valid_tgt $DATA_DIR/IWSLT15.TED.dev2010.tc.$tgt -valid_doc $DATA_DIR/IWSLT15.TED.dev2010.$src-$tgt.doc -save_data $DATA_DIR/IWSLT15.TED -src_vocab_size 30000 -tgt_vocab_size 30000 -src_seq_length 80 -tgt_seq_length 80
 
