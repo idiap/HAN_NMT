@@ -2,16 +2,25 @@ from __future__ import absolute_import
 from __future__ import print_function
 import sys, re
 from six.moves import zip
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--tgt", type=str, action="store")
+parser.add_argument("--src", type=str, action="store")
+
+args = parser.parse_args()
+src = args.src
+tgt = args.tgt
 
 a=sys.argv
 
-f_s = open("train.tags.zh-en.en")
-f_t = open("train.tags.zh-en.zh")
-f_s_o = open("corpus.en", "w")
-f_t_o = open("corpus.zh", "w")
-f_doc = open("corpus.doc", "w")
-f_s_doc = open("corpus.doc.en", "w")
-f_t_doc = open("corpus.doc.zh", "w")
+f_s = open(f"train.tags.{src}-{tgt}.{tgt}")
+f_t = open(f"train.tags.{src}-{tgt}.{src}")
+f_s_o = open(f"corpus.{tgt}", "w")
+f_t_o = open(f"corpus.{src}", "w")
+f_doc = open(f"corpus.doc", "w")
+f_s_doc = open(f"corpus.doc.{tgt}", "w")
+f_t_doc = open(f"corpus.doc.{src}", "w")
 
 count = 0
 for ls, lt in zip(f_s, f_t):
