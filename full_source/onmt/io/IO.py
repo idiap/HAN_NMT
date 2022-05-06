@@ -458,7 +458,7 @@ class DocumentIterator(torchtext.data.Iterator):
         self._iterations_this_epoch += 1
         indx = np.where(self.indx[count:count + len(minibatch)])[0].tolist()
         count += len(minibatch)
-        yield torchtext.data.Batch(minibatch, self.dataset, self.device, self.train), indx
+        yield torchtext.data.Batch(minibatch, self.dataset, self.device), indx
       if not self.repeat:
         raise StopIteration
 
