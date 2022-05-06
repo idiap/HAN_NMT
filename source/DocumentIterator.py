@@ -75,7 +75,7 @@ class DocumentIterator(torchtext.data.Iterator):
         count += len(minibatch)
         yield torchtext.data.Batch(minibatch, self.dataset, self.device, self.train), indx
       if not self.repeat:
-        raise StopIteration
+        return
 
   def batch_eval(self): 
     for r in self.doc_range:
