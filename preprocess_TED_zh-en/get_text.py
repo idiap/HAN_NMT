@@ -62,16 +62,16 @@ f_t_doc.close()
 
 
 for test in ["dev2010", "tst2010", "tst2011", "tst2012", "tst2013"]:
-  f_s = open("IWSLT15.TED." + test +".zh-en.en.xml")
-  f_t = open("IWSLT15.TED." + test +".zh-en.zh.xml")
+  f_s = open(f"IWSLT15.TED." + test +".{src}-{tgt}.{tgt}.xml")
+  f_t = open(f"IWSLT15.TED." + test +".{src}-{tgt}.{src}.xml")
 
   count = 0
 
-  f_s_o = open("IWSLT15.TED." + test +".zh-en.en", "w")
-  f_t_o = open("IWSLT15.TED." + test +".zh-en.zh", "w")
-  f_doc = open("IWSLT15.TED." + test +".zh-en.doc", "w")
-  f_s_doc = open("IWSLT15.TED." + test +".zh-en.doc.en", "w")
-  f_t_doc = open("IWSLT15.TED." + test +".zh-en.doc.zh", "w")
+  f_s_o = open(f"IWSLT15.TED." + test +".{src}-{tgt}.{tgt}", "w")
+  f_t_o = open(f"IWSLT15.TED." + test +".{src}-{tgt}.{src}", "w")
+  f_doc = open(f"IWSLT15.TED." + test +".{src}-{tgt}.doc", "w")
+  f_s_doc = open(f"IWSLT15.TED." + test +".{src}-{tgt}.doc.{tgt}", "w")
+  f_t_doc = open(f"IWSLT15.TED." + test +".{src}-{tgt}.doc.{src}", "w")
 
   for ls, lt in zip(f_s, f_t):
     if ls.startswith("<talkid>"):
