@@ -184,10 +184,7 @@ class DatasetLazyIter(object):
     return self.cur_dataset
 
   def _next_dataset_iterator(self, dataset_iter):
-    try:
-      self.cur_dataset = next(dataset_iter)
-    except StopIteration:
-      return None
+    self.cur_dataset = next(dataset_iter)
 
     # We clear `fields` when saving, restore when loading.
     self.cur_dataset.fields = self.fields
