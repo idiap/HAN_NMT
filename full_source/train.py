@@ -171,7 +171,10 @@ class DatasetLazyIter(object):
     while self.cur_iter is not None:
       for batch in self.cur_iter:
         yield batch
-      self.cur_iter = self._next_dataset_iterator(dataset_iter)
+      try:
+        self.cur_iter = self._next_dataset_iterator(dataset_iter)
+      except StopIteration:
+        return
 
   def __len__(self):
     # We return the len of cur_dataset, otherwise we need to load
@@ -190,7 +193,7 @@ class DatasetLazyIter(object):
     #   return None
 
     self.cur_dataset = next(dataset_iter)
-    
+
     # We clear `fields` when saving, restore when loading.
     self.cur_dataset.fields = self.fields
 
