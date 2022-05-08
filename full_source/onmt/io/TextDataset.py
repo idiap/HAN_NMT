@@ -244,7 +244,8 @@ class TextDataset(ONMTDatasetBase):
       use_vocab=False, dtype=torch.float,
       postprocessing=make_src, sequential=False)
 
-    def make_tgt(data, vocab, is_train):
+    # def make_tgt(data, vocab, is_train):
+    def make_tgt(data, vocab):
       tgt_size = max([t.size(0) for t in data])
       alignment = torch.zeros(tgt_size, len(data)).long()
       for i, sent in enumerate(data):
