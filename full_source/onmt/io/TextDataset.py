@@ -230,7 +230,8 @@ class TextDataset(ONMTDatasetBase):
         torchtext.data.Field(init_token=BOS_WORD, eos_token=EOS_WORD,
                    pad_token=PAD_WORD)
 
-    def make_src(data, vocab, is_train):
+    # def make_src(data, vocab, is_train):
+    def make_src(data, vocab):
       src_size = max([t.size(0) for t in data])
       src_vocab_size = max([t.max() for t in data]) + 1
       alignment = torch.zeros(src_size, len(data), src_vocab_size)
