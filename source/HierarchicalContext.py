@@ -174,6 +174,8 @@ class HierarchicalContext(nn.Module):
     """  Reshape context from word-level attention  """  
     context_sent = context_word.view(b_size, c_size, t_size, d_size).transpose(1,2).contiguous().view(b_size*t_size, c_size, d_size)
     
+    print(keyword, (key_word is not None))
+
     if key_word is not None:
       key_sent = key_word.view(b_size, c_size, t_size, d_size).transpose(1,2).contiguous().view(b_size*t_size, c_size, d_size)
     else:
